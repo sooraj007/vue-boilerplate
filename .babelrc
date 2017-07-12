@@ -1,0 +1,14 @@
+***REMOVED***
+  "presets": [
+    ["env", ***REMOVED*** "modules": false ***REMOVED***],
+    "stage-2"
+  ],
+  "plugins": ["transform-runtime"],
+  "comments": false,
+  "env": ***REMOVED***
+    "test": ***REMOVED***
+      "presets": ["env", "stage-2"],
+      "plugins": [ "istanbul" ]
+  ***REMOVED***
+***REMOVED***
+***REMOVED***

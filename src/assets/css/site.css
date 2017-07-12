@@ -1,0 +1,4894 @@
+.x_title h2,
+table.tile_info td p ***REMOVED***
+    white-space: nowrap;
+    text-overflow: ellipsis
+***REMOVED***
+
+.site_title,
+.x_title h2,
+table.tile_info td p ***REMOVED***
+    text-overflow: ellipsis
+***REMOVED***
+
+.detail a,
+.expand,
+.jqstooltip,
+.paging_full_numbers a:hover,
+.site_title:focus,
+.site_title:hover,
+a,
+a:focus,
+a:hover ***REMOVED***
+    text-decoration: none
+***REMOVED***
+
+.byline,
+.main_menu .fa ***REMOVED***
+    -webkit-font-smoothing: antialiased
+***REMOVED***
+
+.daterangepicker .ranges li ***REMOVED***
+    color: #73879C
+***REMOVED***
+
+.daterangepicker .ranges li.active,
+.daterangepicker .ranges li:hover ***REMOVED***
+    background: #536A7F;
+    border: 1px solid #536A7F;
+    color: #fff
+***REMOVED***
+
+.daterangepicker .input-mini ***REMOVED***
+    background-color: #eee;
+    border: 1px solid #ccc;
+    box-shadow: none!important
+***REMOVED***
+
+.daterangepicker .input-mini.active ***REMOVED***
+    border: 1px solid #ccc
+***REMOVED***
+
+.daterangepicker select.ampmselect,
+.daterangepicker select.hourselect,
+.daterangepicker select.minuteselect,
+.daterangepicker select.monthselect,
+.daterangepicker select.secondselect,
+.daterangepicker select.yearselect ***REMOVED***
+    font-size: 12px;
+    padding: 1px;
+    margin: 0;
+    cursor: default;
+    height: 30px;
+    border: 1px solid #ADB2B5;
+    line-height: 30px;
+    border-radius: 0!important
+***REMOVED***
+
+.daterangepicker select.monthselect ***REMOVED***
+    margin-right: 2%
+***REMOVED***
+
+.daterangepicker td.in-range ***REMOVED***
+    background: #E4E7EA;
+    color: #73879C
+***REMOVED***
+
+.daterangepicker td.active,
+.daterangepicker td.active:hover ***REMOVED***
+    background-color: #536A7F;
+    color: #fff
+***REMOVED***
+
+.daterangepicker th.available:hover ***REMOVED***
+    background: #eee;
+    color: #34495E
+***REMOVED***
+
+.daterangepicker:after,
+.daterangepicker:before ***REMOVED***
+    content: none
+***REMOVED***
+
+.daterangepicker .calendar.single ***REMOVED***
+    margin: 0 0 4px
+***REMOVED***
+
+.daterangepicker .calendar.single .calendar-table ***REMOVED***
+    width: 224px;
+    padding: 0 0 4px!important
+***REMOVED***
+
+.daterangepicker .calendar.single .calendar-table thead tr:first-child th ***REMOVED***
+    padding: 8px 5px
+***REMOVED***
+
+.daterangepicker .calendar.single .calendar-table thead th ***REMOVED***
+    border-radius: 0
+***REMOVED***
+
+.daterangepicker.picker_1 ***REMOVED***
+    color: #fff;
+    background: #34495E
+***REMOVED***
+
+.daterangepicker.picker_1 .calendar-table ***REMOVED***
+    background: #34495E
+***REMOVED***
+
+.daterangepicker.picker_1 .calendar-table thead tr ***REMOVED***
+    background: #213345
+***REMOVED***
+
+.daterangepicker.picker_1 .calendar-table thead tr:first-child ***REMOVED***
+    background: #1ABB9C
+***REMOVED***
+
+.daterangepicker.picker_1 .calendar-table td.off ***REMOVED***
+    background: #34495E;
+    color: #999
+***REMOVED***
+
+.daterangepicker.picker_1 .calendar-table td.available:hover ***REMOVED***
+    color: #34495E
+***REMOVED***
+
+.daterangepicker.picker_2 .calendar-table thead tr ***REMOVED***
+    color: #1ABB9C
+***REMOVED***
+
+.daterangepicker.picker_2 .calendar-table thead tr:first-child ***REMOVED***
+    color: #73879C
+***REMOVED***
+
+.daterangepicker.picker_3 .calendar-table thead tr:first-child ***REMOVED***
+    color: #fff;
+    background: #1ABB9C
+***REMOVED***
+
+.daterangepicker.picker_4 .calendar-table thead tr:first-child ***REMOVED***
+    color: #fff;
+    background: #34495E
+***REMOVED***
+
+.daterangepicker.picker_4 .calendar-table td,
+.daterangepicker.picker_4 .calendar-table td.off ***REMOVED***
+    background: #ECF0F1;
+    border: 1px solid #fff;
+    border-radius: 0
+***REMOVED***
+
+.daterangepicker.picker_4 .calendar-table td.active ***REMOVED***
+    background: #34495E
+***REMOVED***
+
+.calendar-exibit .show-calendar ***REMOVED***
+    float: none;
+    display: block;
+    position: relative;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    border: 1px solid rgba(0, 0, 0, .15);
+    overflow: hidden
+***REMOVED***
+
+.calendar-exibit .show-calendar .calendar ***REMOVED***
+    margin: 0 0 4px
+***REMOVED***
+
+.calendar-exibit .show-calendar.picker_1 ***REMOVED***
+    background: #34495E
+***REMOVED***
+
+.calendar-exibit .calendar-table ***REMOVED***
+    padding: 0 0 4px
+***REMOVED***
+
+.left_col ***REMOVED***
+
+    background: -webkit-linear-gradient(top, rgb(87, 167, 224) 0%, rgb(99, 188, 237) 100%);
+
+***REMOVED***
+
+.nav-sm .container.body .col-md-3.left_col ***REMOVED***
+    min-height: 100%;
+    width: 70px;
+    padding: 0;
+    z-index: 9999;
+    position: absolute
+***REMOVED***
+
+.nav-sm .container.body .col-md-3.left_col.menu_fixed ***REMOVED***
+    position: fixed;
+    height: 100%
+***REMOVED***
+
+.nav-sm .container.body .col-md-3.left_col .mCSB_container,
+.nav-sm .container.body .col-md-3.left_col .mCustomScrollBox ***REMOVED***
+    overflow: visible
+***REMOVED***
+
+.overflow_hidden,
+.sidebar-widget,
+.site_title,
+.tile,
+.weather-days .col-sm-2,
+.x_title h2,
+table.tile_info td p ***REMOVED***
+    overflow: hidden
+***REMOVED***
+
+.nav-sm .hidden-small ***REMOVED***
+    visibility: hidden
+***REMOVED***
+
+.nav-sm .container.body .right_col ***REMOVED***
+    padding: 10px 20px;
+    margin-left: 70px;
+    z-index: 2
+***REMOVED***
+
+.nav-sm .navbar.nav_title ***REMOVED***
+    width: 70px
+***REMOVED***
+
+.nav-sm .navbar.nav_title a span ***REMOVED***
+    display: none
+***REMOVED***
+
+.nav-sm .navbar.nav_title a i ***REMOVED***
+    font-size: 27px;
+    margin: 13px 0 0 3px
+***REMOVED***
+
+.site_title i ***REMOVED***
+    border: 1px solid #EAEAEA;
+    padding: 5px 6px;
+    border-radius: 50%
+***REMOVED***
+
+.nav-sm .main_container .top_nav ***REMOVED***
+    display: block;
+    margin-left: 70px;
+    z-index: 2
+***REMOVED***
+
+.nav-sm .nav.side-menu li a ***REMOVED***
+    text-align: center!important;
+    font-weight: 400;
+    font-size: 10px;
+    padding: 10px 5px
+***REMOVED***
+
+.nav-sm .nav.child_menu li.active,
+.nav-sm .nav.side-menu li.active-sm ***REMOVED***
+    border-right: 5px solid #1ABB9C
+***REMOVED***
+
+.nav-sm .nav.side-menu li.active-sm ul ul,
+.nav-sm ul.nav.child_menu ul ***REMOVED***
+    position: static;
+    width: 200px;
+    background: 0 0
+***REMOVED***
+
+.nav-sm>.nav.side-menu>li.active-sm>a ***REMOVED***
+    color: #1ABB9C!important
+***REMOVED***
+
+.nav-sm .nav.side-menu li a i.toggle-up ***REMOVED***
+    display: none!important
+***REMOVED***
+
+.nav-sm .menu_section h3,
+.nav-sm .profile,
+.nav-sm span.fa ***REMOVED***
+    display: none
+***REMOVED***
+
+.nav-sm .nav.side-menu li a i ***REMOVED***
+    font-size: 25px!important;
+    text-align: center;
+    width: 100%!important;
+    margin-bottom: 5px
+***REMOVED***
+
+.nav-sm ul.nav.child_menu ***REMOVED***
+    left: 100%;
+    position: absolute;
+    top: 0;
+    width: 210px;
+    z-index: 4000;
+    background: #3E5367;
+    display: none
+***REMOVED***
+
+.nav-sm ul.nav.child_menu li ***REMOVED***
+    padding: 0 10px
+***REMOVED***
+
+.nav-sm ul.nav.child_menu li a ***REMOVED***
+    text-align: left!important
+***REMOVED***
+
+.menu_section ***REMOVED***
+    margin-bottom: 35px
+***REMOVED***
+
+.menu_section h3 ***REMOVED***
+    padding-left: 15px;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: .5px;
+    font-weight: 700;
+    font-size: 11px;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-shadow: 1px 1px #000
+***REMOVED***
+
+.menu_section>ul ***REMOVED***
+    margin-top: 10px
+***REMOVED***
+
+.profile_pic ***REMOVED***
+    width: 35%;
+    float: left
+***REMOVED***
+
+.img-circle.profile_img ***REMOVED***
+    width: 70%;
+    background: #fff;
+    margin-left: 15%;
+    z-index: 1000;
+    position: inherit;
+    margin-top: 20px;
+    border: 1px solid rgba(52, 73, 94, .44);
+    padding: 4px
+***REMOVED***
+
+.profile_info ***REMOVED***
+    padding: 25px 10px 10px;
+    width: 65%;
+    float: left
+***REMOVED***
+
+.profile_info span ***REMOVED***
+    font-size: 13px;
+    line-height: 30px;
+    color: #BAB8B8
+***REMOVED***
+
+.profile_info h2 ***REMOVED***
+    font-size: 14px;
+    color: #ECF0F1;
+    margin: 0;
+    font-weight: 300
+***REMOVED***
+
+.profile.img_2 ***REMOVED***
+    text-align: center
+***REMOVED***
+
+.profile.img_2 .profile_pic ***REMOVED***
+    width: 100%
+***REMOVED***
+
+.profile.img_2 .profile_pic .img-circle.profile_img ***REMOVED***
+    width: 50%;
+    margin: 10px 0 0
+***REMOVED***
+
+.profile.img_2 .profile_info ***REMOVED***
+    padding: 15px 10px 0;
+    width: 100%;
+    margin-bottom: 10px;
+    float: left
+***REMOVED***
+
+.main_menu span.fa ***REMOVED***
+    float: right;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 10px;
+    min-width: inherit;
+    color: white
+***REMOVED***
+
+.active a span.fa ***REMOVED***
+    text-align: right!important;
+    margin-right: 4px
+***REMOVED***
+
+.nav-sm .menu_section ***REMOVED***
+    margin: 0
+***REMOVED***
+
+.nav-sm li li span.fa ***REMOVED***
+    display: inline-block
+***REMOVED***
+
+.nav_menu ***REMOVED***
+    float: left;
+    background: white;
+    border-bottom: 1px solid #D9DEE4;
+    margin-bottom: 10px;
+    width: 100%;
+    position: relative
+***REMOVED***
+
+@media (min-width:480px) ***REMOVED***
+    .nav_menu ***REMOVED***
+        position: static
+  ***REMOVED***
+***REMOVED***
+
+.nav-md .container.body .col-md-3.left_col ***REMOVED***
+    min-height: 100%;
+    width: 230px;
+    padding: 0;
+    position: absolute;
+    display: -ms-flexbox;
+    display: flex;
+    z-index: 1
+***REMOVED***
+
+.nav-md .container.body .col-md-3.left_col.menu_fixed ***REMOVED***
+    height: 100%;
+    position: fixed
+***REMOVED***
+
+body .container.body .right_col ***REMOVED***
+    background-color: #F1F5F8 !important;
+***REMOVED***
+
+.nav-md .container.body .right_col ***REMOVED***
+    padding: 10px 20px 0;
+    margin-left: 230px
+***REMOVED***
+
+.nav_title ***REMOVED***
+    width: 230px;
+    float: left;
+ /*    background: #2A3F54; */
+    border-radius: 0;
+    height: 57px
+***REMOVED***
+
+@media (max-width:991px) ***REMOVED***
+    .nav-md .container.body .right_col,
+    .nav-md .container.body .top_nav ***REMOVED***
+        width: 100%;
+        margin: 0
+  ***REMOVED***
+    .nav-md .container.body .col-md-3.left_col ***REMOVED***
+        display: none
+  ***REMOVED***
+    .nav-md .container.body .right_col ***REMOVED***
+        width: 100%;
+        padding-right: 0
+  ***REMOVED***
+    .right_col ***REMOVED***
+        padding: 10px!important
+  ***REMOVED***
+***REMOVED***
+
+@media (max-width:1200px) ***REMOVED***
+    .x_title h2 ***REMOVED***
+        width: 62%;
+        font-size: 17px
+  ***REMOVED***
+    .graph,
+    .tile ***REMOVED***
+        zoom: 85%;
+        height: inherit
+  ***REMOVED***
+***REMOVED***
+
+@media (max-width:1270px) and (min-width:192px) ***REMOVED***
+    .x_title h2 small ***REMOVED***
+        display: none
+  ***REMOVED***
+***REMOVED***
+
+.left_col .mCSB_scrollTools ***REMOVED***
+    width: 6px
+***REMOVED***
+
+.left_col .mCSB_dragger ***REMOVED***
+    max-height: 400px!important
+***REMOVED***
+
+.blue ***REMOVED***
+    color: #3498DB
+***REMOVED***
+
+.purple ***REMOVED***
+    color: #9B59B6
+***REMOVED***
+
+.green ***REMOVED***
+    color: #1ABB9C
+***REMOVED***
+
+.aero ***REMOVED***
+    color: #9CC2CB
+***REMOVED***
+
+.red ***REMOVED***
+    color: #E74C3C
+***REMOVED***
+
+.dark ***REMOVED***
+    color: #34495E
+***REMOVED***
+
+.border-blue ***REMOVED***
+    border-color: #3498DB!important
+***REMOVED***
+
+.border-purple ***REMOVED***
+    border-color: #9B59B6!important
+***REMOVED***
+
+.border-green ***REMOVED***
+    border-color: #1ABB9C!important
+***REMOVED***
+
+.border-aero ***REMOVED***
+    border-color: #9CC2CB!important
+***REMOVED***
+
+.border-red ***REMOVED***
+    border-color: #E74C3C!important
+***REMOVED***
+
+.border-dark ***REMOVED***
+    border-color: #34495E!important
+***REMOVED***
+
+.bg-white ***REMOVED***
+    background: #fff!important;
+    border: 1px solid #fff!important;
+    color: #73879C
+***REMOVED***
+
+.bg-green ***REMOVED***
+    background: #1ABB9C!important;
+    border: 1px solid #1ABB9C!important;
+    color: #fff
+***REMOVED***
+
+.bg-red ***REMOVED***
+    background: #E74C3C!important;
+    border: 1px solid #E74C3C!important;
+    color: #fff
+***REMOVED***
+
+.bg-blue ***REMOVED***
+    background: #3498DB!important;
+    border: 1px solid #3498DB!important;
+    color: #fff
+***REMOVED***
+
+.bg-orange ***REMOVED***
+    background: #F39C12!important;
+    border: 1px solid #F39C12!important;
+    color: #fff
+***REMOVED***
+
+.bg-purple ***REMOVED***
+    background: #9B59B6!important;
+    border: 1px solid #9B59B6!important;
+    color: #fff
+***REMOVED***
+
+.bg-blue-sky ***REMOVED***
+    background: #50C1CF!important;
+    border: 1px solid #50C1CF!important;
+    color: #fff
+***REMOVED***
+
+.container ***REMOVED***
+    width: 100%;
+    padding: 0
+***REMOVED***
+
+.top_nav .nav .open>a,
+.top_nav .nav .open>a:focus,
+.top_nav .nav .open>a:hover,
+.top_nav .nav>li>a:focus,
+.top_nav .nav>li>a:hover ***REMOVED***
+    background: #D9DEE4
+***REMOVED***
+
+body ***REMOVED***
+    color: #73879C;
+    background: #2A3F54;
+    font-family: "Helvetica Neue", Roboto, Arial, "Droid Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.471
+***REMOVED***
+
+.main_container .top_nav ***REMOVED***
+    display: block;
+    margin-left: 230px
+***REMOVED***
+
+.no-padding ***REMOVED***
+    padding: 0!important
+***REMOVED***
+
+.page-title ***REMOVED***
+    width: 100%;
+    height: 65px;
+    padding: 10px 0
+***REMOVED***
+
+.page-title .title_left ***REMOVED***
+    width: 45%;
+    float: left;
+    display: block
+***REMOVED***
+
+.page-title .title_left h3 ***REMOVED***
+    margin: 9px 0
+***REMOVED***
+
+.page-title .title_right ***REMOVED***
+    width: 55%;
+    float: left;
+    display: block
+***REMOVED***
+
+.page-title .title_right .pull-right ***REMOVED***
+    margin: 10px 0
+***REMOVED***
+
+.fixed_height_320 ***REMOVED***
+    height: 320px
+***REMOVED***
+
+.fixed_height_390 ***REMOVED***
+    height: 390px
+***REMOVED***
+
+.fixed_height_200 ***REMOVED***
+    height: 200px
+***REMOVED***
+
+.progress-bar-dark ***REMOVED***
+    background-color: #34495E!important
+***REMOVED***
+
+.progress-bar-gray ***REMOVED***
+    background-color: #BDC3C7!important
+***REMOVED***
+
+table.no-margin .progress ***REMOVED***
+    margin-bottom: 0
+***REMOVED***
+
+.main_content ***REMOVED***
+    padding: 10px 20px
+***REMOVED***
+
+.col-md-55 ***REMOVED***
+    width: 50%;
+    margin-bottom: 10px
+***REMOVED***
+
+@media (min-width:768px) ***REMOVED***
+    .col-md-55 ***REMOVED***
+        width: 20%
+  ***REMOVED***
+***REMOVED***
+
+@media (min-width:992px) ***REMOVED***
+    .col-md-55 ***REMOVED***
+        width: 20%
+  ***REMOVED***
+***REMOVED***
+
+@media (min-width:1200px) ***REMOVED***
+    .col-md-55 ***REMOVED***
+        width: 20%
+  ***REMOVED***
+***REMOVED***
+
+@media (min-width:192px) and (max-width:1270px) ***REMOVED***
+    table.tile_info span.right ***REMOVED***
+        margin-right: 7px;
+        float: left
+  ***REMOVED***
+***REMOVED***
+
+.center-margin ***REMOVED***
+    margin: 0 auto;
+    float: none!important
+***REMOVED***
+
+.col-lg-1,
+.col-lg-10,
+.col-lg-11,
+.col-lg-12,
+.col-lg-2,
+.col-lg-3,
+.col-lg-4,
+.col-lg-5,
+.col-lg-6,
+.col-lg-7,
+.col-lg-8,
+.col-lg-9,
+.col-md-1,
+.col-md-10,
+.col-md-11,
+.col-md-12,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-55,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-sm-1,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12,
+.col-sm-2,
+.col-sm-3,
+.col-sm-4,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-xs-1,
+.col-xs-10,
+.col-xs-11,
+.col-xs-12,
+.col-xs-2,
+.col-xs-3,
+.col-xs-4,
+.col-xs-5,
+.col-xs-6,
+.col-xs-7,
+.col-xs-8,
+.col-xs-9 ***REMOVED***
+    position: relative;
+    min-height: 1px;
+    float: left;
+    padding-right: 10px;
+    padding-left: 10px
+***REMOVED***
+
+.row ***REMOVED***
+    margin-right: -10px;
+    margin-left: -10px
+***REMOVED***
+
+.grid_slider .col-md-6 ***REMOVED***
+    padding: 0 40px
+***REMOVED***
+
+.h1,
+.h2,
+.h3,
+h1,
+h2,
+h3 ***REMOVED***
+    margin-top: 10px;
+    margin-bottom: 10px
+***REMOVED***
+
+a ***REMOVED***
+    color: #5A738E
+***REMOVED***
+
+.btn.active.focus,
+.btn.active:focus,
+.btn.focus,
+.btn:active.focus,
+.btn:active:focus,
+.btn:focus,
+:active,
+:focus,
+:visited,
+a,
+a:active,
+a:focus,
+a:visited ***REMOVED***
+    outline: 0
+***REMOVED***
+
+.navbar ***REMOVED***
+    margin-bottom: 0
+***REMOVED***
+
+.navbar-header ***REMOVED***
+    background: #34495E
+***REMOVED***
+
+.navbar-right ***REMOVED***
+    margin-right: 0
+***REMOVED***
+
+.top_nav .navbar-right ***REMOVED***
+    margin: 0;
+    width: 70%;
+    float: right
+***REMOVED***
+
+.top_nav .navbar-right li ***REMOVED***
+    display: inline-block;
+    float: right;
+    position: static
+***REMOVED***
+
+@media (min-width:480px) ***REMOVED***
+    .top_nav .navbar-right li ***REMOVED***
+        position: relative
+  ***REMOVED***
+***REMOVED***
+
+.top_nav .dropdown-menu li ***REMOVED***
+    width: 100%
+***REMOVED***
+
+.top_nav .dropdown-menu li a ***REMOVED***
+    width: 100%;
+    padding: 12px 20px
+***REMOVED***
+
+.top_nav li a i ***REMOVED***
+    font-size: 15px
+***REMOVED***
+
+.navbar-static-top ***REMOVED***
+    position: fixed;
+    top: 0;
+    width: 100%
+***REMOVED***
+
+.sidebar-header ***REMOVED***
+    border-bottom: 0;
+    margin-top: 46px
+***REMOVED***
+
+.sidebar-header:first-of-type ***REMOVED***
+    margin-top: 0
+***REMOVED***
+
+.nav.side-menu>li ***REMOVED***
+    position: relative;
+    display: block;
+    cursor: pointer;
+        padding-bottom: 9px;
+***REMOVED***
+
+.nav.side-menu>li>a ***REMOVED***
+    margin-bottom: 10px;
+***REMOVED***
+
+.nav.side-menu>li>a:hover ***REMOVED***
+    color: #F2F5F7!important
+***REMOVED***
+
+.nav.side-menu>li>a:hover,
+.nav>li>a:focus ***REMOVED***
+    text-decoration: none;
+    background: 0 0
+***REMOVED***
+
+.nav.child_menu ***REMOVED***
+    display: none
+***REMOVED***
+
+.nav.child_menu li.active,
+.nav.child_menu li:hover ***REMOVED***
+    background-color: rgba(255, 255, 255, .06)
+***REMOVED***
+
+.nav.child_menu li ***REMOVED***
+    padding-left: 36px;
+        padding-bottom: 18px;
+***REMOVED***
+
+.nav-md ul.nav.child_menu li:before ***REMOVED***
+    background: #425668;
+    bottom: auto;
+    content: "";
+    height: 8px;
+    left: 23px;
+    margin-top: 15px;
+    position: absolute;
+    right: auto;
+    width: 8px;
+    z-index: 1;
+    border-radius: 50%
+***REMOVED***
+
+.nav-md ul.nav.child_menu li:after ***REMOVED***
+    border-left: 1px solid #425668;
+    bottom: 0;
+    content: "";
+    left: 27px;
+    position: absolute;
+    top: 0
+***REMOVED***
+
+.nav.top_menu>li>a,
+.nav>li>a ***REMOVED***
+    position: relative;
+    display: block
+***REMOVED***
+
+.nav.child_menu>li>a,
+.nav.side-menu>li>a ***REMOVED***
+    color: white;
+    font-weight: 500;
+        font-size: 1.2em;
+***REMOVED***
+
+.nav li li.current-page a,
+.nav.child_menu li li a.active,
+.nav.child_menu li li a:hover ***REMOVED***
+    color: #fff
+***REMOVED***
+
+.nav.child_menu li li.active,
+.nav.child_menu li li:hover ***REMOVED***
+    background: 0 0
+***REMOVED***
+
+.nav>li>a ***REMOVED***
+       padding: 13px 15px 19px;
+***REMOVED***
+
+.nav.side-menu>li.active,
+.nav.side-menu>li.current-page ***REMOVED***
+   border-right: 5px solid rgba(60, 231, 218, 0.57);
+***REMOVED***
+
+.nav li.current-page ***REMOVED***
+    background: rgba(255, 255, 255, .05)
+***REMOVED***
+
+.nav li li li.current-page ***REMOVED***
+    background: 0 0
+***REMOVED***
+
+.navbar-brand,
+.navbar-nav>li>a,
+.site_title ***REMOVED***
+    color: #ECF0F1!important;
+    margin-left: 0!important
+***REMOVED***
+
+.nav.side-menu>li.active>a ***REMOVED***
+        text-shadow: rgba(0, 0, 0, .25) 0 -1px 0;
+    /* background: linear-gradient(rgba(51, 69, 86, 0.1), rgba(44, 66, 87, 0.43)), rgba(42, 63, 84, 0.31); */
+    /* box-shadow: rgba(0, 0, 0, .25) 0 1px 0, inset rgba(255, 255, 255, .16) 0 1px 0; */
+    background: rgba(0, 0, 0, 0.25);
+***REMOVED***
+
+.navbar-brand,
+.navbar-nav>li>a ***REMOVED***
+    font-weight: 500;
+    line-height: 32px
+***REMOVED***
+
+.site_title ***REMOVED***
+    font-weight: 400;
+    font-size: 22px;
+    width: 100%;
+    line-height: 59px;
+    display: block;
+    height: 55px;
+    margin: 0;
+    padding-left: 0px
+***REMOVED***
+
+.nav.navbar-nav>li>a ***REMOVED***
+    color: #515356!important
+***REMOVED***
+
+.nav.top_menu>li>a ***REMOVED***
+    padding: 10px 15px;
+    color: #34495E!important
+***REMOVED***
+
+.nav>li>a:focus,
+.nav>li>a:hover ***REMOVED***
+    background-color: transparent
+***REMOVED***
+
+.top_search ***REMOVED***
+    padding: 0
+***REMOVED***
+
+.top_search .form-control ***REMOVED***
+    box-shadow: inset 0 1px 0 rgba(0, 0, 0, .075);
+    border-radius: 25px 0 0 25px;
+    padding-left: 20px;
+    border: 1px solid rgba(221, 226, 232, .49)
+***REMOVED***
+
+.top_search .form-control:focus ***REMOVED***
+    border: 1px solid rgba(221, 226, 232, .49);
+    border-right: 0
+***REMOVED***
+
+.top_search .input-group-btn button ***REMOVED***
+    border-radius: 0 25px 25px 0;
+    border: 1px solid rgba(221, 226, 232, .49);
+    border-left: 0;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    color: #93A2B2;
+    margin-bottom: 0!important
+***REMOVED***
+
+.tiles,
+.top_tiles ***REMOVED***
+    margin-bottom: 0
+***REMOVED***
+
+.toggle ***REMOVED***
+    float: left;
+    margin: 0;
+    padding-top: 16px;
+    width: 70px
+***REMOVED***
+
+.toggle a ***REMOVED***
+    padding: 15px 15px 0;
+    margin: 0;
+    cursor: pointer
+***REMOVED***
+
+.toggle a i ***REMOVED***
+    font-size: 26px
+***REMOVED***
+
+.nav.child_menu>li>a ***REMOVED***
+       color: rgb(255, 255, 255);
+    font-size: 15px;
+    padding: 9px;
+***REMOVED***
+
+.panel_toolbox ***REMOVED***
+    float: right;
+    min-width: 70px
+***REMOVED***
+
+.panel_toolbox>li ***REMOVED***
+    float: left;
+    cursor: pointer
+***REMOVED***
+
+.panel_toolbox>li>a ***REMOVED***
+    padding: 5px;
+    color: #C5C7CB;
+    font-size: 14px
+***REMOVED***
+
+.panel_toolbox>li>a:hover ***REMOVED***
+    background: #F5F7FA
+***REMOVED***
+
+.line_30 ***REMOVED***
+    line-height: 30px
+***REMOVED***
+
+.main_menu_side ***REMOVED***
+    padding: 0
+***REMOVED***
+
+.bs-docs-sidebar .nav>li>a ***REMOVED***
+    display: block;
+    padding: 4px 6px
+***REMOVED***
+
+footer ***REMOVED***
+    background: #fff;
+    padding: 15px 20px;
+    display: block
+***REMOVED***
+
+.nav-sm footer ***REMOVED***
+    margin-left: 70px
+***REMOVED***
+
+.footer_fixed footer ***REMOVED***
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%
+***REMOVED***
+
+.degrees:after,
+.x_content,
+.x_panel ***REMOVED***
+    position: relative
+***REMOVED***
+
+@media (min-width:768px) ***REMOVED***
+    .footer_fixed .nav-sm footer,
+    .footer_fixed footer ***REMOVED***
+        margin-left: 0
+  ***REMOVED***
+***REMOVED***
+
+.tile-stats.sparkline ***REMOVED***
+    padding: 10px;
+    text-align: center
+***REMOVED***
+
+.jqstooltip ***REMOVED***
+    background: #34495E!important;
+    width: 30px!important;
+    height: 22px!important
+***REMOVED***
+
+.tooltip ***REMOVED***
+    display: block!important
+***REMOVED***
+
+.tiles ***REMOVED***
+    border-top: 1px solid #ccc;
+    margin-top: 15px;
+    padding-top: 5px
+***REMOVED***
+
+.top_tiles .tile h2 ***REMOVED***
+    font-size: 30px;
+    line-height: 30px;
+    margin: 3px 0 7px;
+    font-weight: 700
+***REMOVED***
+
+article.media ***REMOVED***
+    width: 100%
+***REMOVED***
+
+*,
+:after,
+:before ***REMOVED***
+    box-sizing: border-box
+***REMOVED***
+
+#integration-list ***REMOVED***
+    width: 100%;
+    margin: 0 auto;
+    display: table
+***REMOVED***
+
+#integration-list ul ***REMOVED***
+    padding: 0;
+    margin: 20px 0;
+    color: #555
+***REMOVED***
+
+#integration-list ul>li ***REMOVED***
+    list-style: none;
+    border-top: 1px solid #ddd;
+    display: block;
+    padding: 15px;
+    overflow: hidden
+***REMOVED***
+
+#integration-list ul:last-child ***REMOVED***
+    border-bottom: 1px solid #ddd
+***REMOVED***
+
+#integration-list ul>li:hover ***REMOVED***
+    background: #efefef
+***REMOVED***
+
+.expand ***REMOVED***
+    display: block;
+    color: #555;
+    cursor: pointer
+***REMOVED***
+
+.expand h2 ***REMOVED***
+    width: 85%;
+    float: left
+***REMOVED***
+
+h2 ***REMOVED***
+    font-size: 18px;
+    font-weight: 400
+***REMOVED***
+
+#left,
+#right ***REMOVED***
+    display: table
+***REMOVED***
+
+#sup ***REMOVED***
+    display: table-cell;
+    vertical-align: middle;
+    width: 80%
+***REMOVED***
+
+.detail a ***REMOVED***
+    color: #C0392B;
+    border: 1px solid #C0392B;
+    padding: 6px 10px 5px;
+    font-size: 13px;
+    margin-right: 7px
+***REMOVED***
+
+.detail ***REMOVED***
+    margin: 10px 0;
+    display: none;
+    line-height: 22px;
+    height: 150px
+***REMOVED***
+
+.detail span ***REMOVED***
+    margin: 0
+***REMOVED***
+
+.right-arrow ***REMOVED***
+    width: 10px;
+    float: right;
+    font-weight: 700;
+    font-size: 20px
+***REMOVED***
+
+.accordion .panel ***REMOVED***
+    margin-bottom: 5px;
+    border-radius: 0;
+    border-bottom: 1px solid #efefef
+***REMOVED***
+
+.x_panel,
+.x_title ***REMOVED***
+    margin-bottom: 10px
+***REMOVED***
+
+.accordion .panel-heading ***REMOVED***
+    background: #F2F5F7;
+    padding: 13px;
+    width: 100%;
+    display: block
+***REMOVED***
+
+.accordion .panel:hover ***REMOVED***
+    background: #F2F5F7
+***REMOVED***
+
+.x_panel ***REMOVED***
+    width: 100%;
+    padding: 10px 17px;
+    display: inline-block;
+    background: #fff;
+    border: 1px solid #E6E9ED;
+    -webkit-column-break-inside: avoid;
+    -moz-column-break-inside: avoid;
+    column-break-inside: avoid;
+    opacity: 1;
+    transition: all .2s ease
+***REMOVED***
+
+.x_title ***REMOVED***
+   border-bottom: 1px solid rgba(230, 233, 237, 0.64);
+    padding: 1px 5px 6px
+***REMOVED***
+
+.x_title .filter ***REMOVED***
+    width: 40%;
+    float: right
+***REMOVED***
+
+.x_content,
+table.tile td ul li a,
+table.tile_info ***REMOVED***
+    width: 100%
+***REMOVED***
+
+.x_title h2 ***REMOVED***
+    margin: 5px 0 6px;
+    float: left;
+    display: block
+***REMOVED***
+
+.x_title h2 small ***REMOVED***
+    margin-left: 10px
+***REMOVED***
+
+.x_title span ***REMOVED***
+    color: #BDBDBD
+***REMOVED***
+
+.x_content ***REMOVED***
+    padding: 0 5px 6px;
+    float: left;
+    clear: both;
+    margin-top: 5px
+***REMOVED***
+
+.x_content h4 ***REMOVED***
+    font-size: 16px;
+    font-weight: 500
+***REMOVED***
+
+legend ***REMOVED***
+    padding-bottom: 7px
+***REMOVED***
+
+.demo-placeholder ***REMOVED***
+    height: 280px
+***REMOVED***
+
+.profile_details:nth-child(3n) ***REMOVED***
+    clear: both
+***REMOVED***
+
+.profile_details .profile_view ***REMOVED***
+    display: inline-block;
+    padding: 10px 0 0;
+    background: #fff
+***REMOVED***
+
+.profile_details .profile_view .divider ***REMOVED***
+    border-top: 1px solid #e5e5e5;
+    padding-top: 5px;
+    margin-top: 5px
+***REMOVED***
+
+.profile_details .profile_view .ratings ***REMOVED***
+    margin-bottom: 0;
+    text-align: left;
+    font-size: 16px
+***REMOVED***
+
+.profile_details .profile_view .bottom ***REMOVED***
+    background: #F2F5F7;
+    padding: 9px 0;
+    border-top: 1px solid #E6E9ED
+***REMOVED***
+
+.profile_details .profile_view .left ***REMOVED***
+    margin-top: 20px
+***REMOVED***
+
+.profile_details .profile_view .left p ***REMOVED***
+    margin-bottom: 3px
+***REMOVED***
+
+.profile_details .profile_view .right ***REMOVED***
+    margin-top: 0;
+    padding: 10px
+***REMOVED***
+
+.profile_details .profile_view .img-circle ***REMOVED***
+    border: 1px solid #E6E9ED;
+    padding: 2px
+***REMOVED***
+
+.profile_details .profile_view h2 ***REMOVED***
+    margin: 5px 0
+***REMOVED***
+
+.profile_details .profile_view .brief ***REMOVED***
+    margin: 0;
+    font-weight: 300
+***REMOVED***
+
+.profile_details .profile_left ***REMOVED***
+    background: #fff
+***REMOVED***
+
+.pagination.pagination-split li ***REMOVED***
+    display: inline-block;
+    margin-right: 3px
+***REMOVED***
+
+.pagination.pagination-split li a ***REMOVED***
+    border-radius: 4px;
+    color: #768399;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px
+***REMOVED***
+
+table.tile h3,
+table.tile h4,
+table.tile span ***REMOVED***
+    font-weight: 700;
+    vertical-align: middle!important
+***REMOVED***
+
+table.tile td,
+table.tile th ***REMOVED***
+    text-align: center
+***REMOVED***
+
+table.tile th ***REMOVED***
+    border-bottom: 1px solid #E6ECEE
+***REMOVED***
+
+table.tile td ***REMOVED***
+    padding: 5px 0
+***REMOVED***
+
+table.tile td ul ***REMOVED***
+    text-align: left;
+    padding-left: 0
+***REMOVED***
+
+table.tile td ul li ***REMOVED***
+    list-style: none;
+    width: 100%
+***REMOVED***
+
+table.tile td ul li a big ***REMOVED***
+    right: 0;
+    float: right;
+    margin-right: 13px
+***REMOVED***
+
+table.tile_info td ***REMOVED***
+    text-align: left;
+    padding: 1px;
+    font-size: 15px
+***REMOVED***
+
+table.tile_info td p ***REMOVED***
+    margin: 0;
+    line-height: 28px
+***REMOVED***
+
+table.tile_info td i ***REMOVED***
+    margin-right: 8px;
+    font-size: 17px;
+    float: left;
+    width: 18px;
+    line-height: 28px
+***REMOVED***
+
+table.tile_info td:first-child ***REMOVED***
+    width: 83%
+***REMOVED***
+
+td span ***REMOVED***
+    line-height: 28px
+***REMOVED***
+
+.error-number ***REMOVED***
+    font-size: 90px;
+    line-height: 90px;
+    margin: 20px 0
+***REMOVED***
+
+.col-middle ***REMOVED***
+    margin-top: 5%
+***REMOVED***
+
+.mid_center ***REMOVED***
+    width: 370px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px 20px
+***REMOVED***
+
+h3.degrees ***REMOVED***
+    font-size: 22px;
+    font-weight: 400;
+    text-align: center
+***REMOVED***
+
+.degrees:after ***REMOVED***
+    content: "o";
+    top: -12px;
+    font-size: 13px;
+    font-weight: 300
+***REMOVED***
+
+.daily-weather .day ***REMOVED***
+    font-size: 14px;
+    border-top: 2px solid rgba(115, 135, 156, .36);
+    text-align: center;
+    border-bottom: 2px solid rgba(115, 135, 156, .36);
+    padding: 5px 0
+***REMOVED***
+
+.weather-days .col-sm-2 ***REMOVED***
+    width: 16.66666667%
+***REMOVED***
+
+.weather .row ***REMOVED***
+    margin-bottom: 0
+***REMOVED***
+
+.bulk-actions ***REMOVED***
+    display: none
+***REMOVED***
+
+table.countries_list ***REMOVED***
+    width: 100%
+***REMOVED***
+
+table.countries_list td ***REMOVED***
+    padding: 0 10px;
+    line-height: 30px;
+    border-top: 1px solid #eee
+***REMOVED***
+
+.dataTables_paginate a ***REMOVED***
+    padding: 6px 9px!important;
+    background: #ddd!important;
+    border-color: #ddd!important
+***REMOVED***
+
+.paging_full_numbers a.paginate_active ***REMOVED***
+    background-color: rgba(38, 185, 154, .59)!important;
+    border-color: rgba(38, 185, 154, .59)!important
+***REMOVED***
+
+a.DTTT_button,
+button.DTTT_button,
+div.DTTT_button ***REMOVED***
+    border: 1px solid #E7E7E7!important;
+    background: #E7E7E7!important;
+    box-shadow: none!important
+***REMOVED***
+
+table.jambo_table ***REMOVED***
+    border: 1px solid rgba(221, 221, 221, .78)
+***REMOVED***
+
+table.jambo_table thead ***REMOVED***
+    background: rgba(52, 73, 94, .94);
+    color: #ECF0F1
+***REMOVED***
+
+table.jambo_table tbody tr:hover td ***REMOVED***
+    background: rgba(38, 185, 154, .07);
+    border-top: 1px solid rgba(38, 185, 154, .11);
+    border-bottom: 1px solid rgba(38, 185, 154, .11)
+***REMOVED***
+
+table.jambo_table tbody tr.selected ***REMOVED***
+    background: rgba(38, 185, 154, .16)
+***REMOVED***
+
+table.jambo_table tbody tr.selected td ***REMOVED***
+    border-top: 1px solid rgba(38, 185, 154, .4);
+    border-bottom: 1px solid rgba(38, 185, 154, .4)
+***REMOVED***
+
+.dataTables_wrapper ***REMOVED***
+    position: relative;
+    clear: both;
+    zoom: 1
+***REMOVED***
+
+.dataTables_processing ***REMOVED***
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 250px;
+    height: 30px;
+    margin-left: -125px;
+    margin-top: -15px;
+    padding: 14px 0 2px;
+    border: 1px solid #ddd;
+    text-align: center;
+    color: #999;
+    font-size: 14px;
+    background-color: #fff
+***REMOVED***
+
+td.details,
+td.group ***REMOVED***
+    background-color: #d1cfd0
+***REMOVED***
+
+.dataTables_length ***REMOVED***
+    width: 40%;
+    float: left
+***REMOVED***
+
+.dataTables_filter ***REMOVED***
+    width: 50%;
+    float: right;
+    text-align: right
+***REMOVED***
+
+.dataTables_info ***REMOVED***
+    width: 60%;
+    float: left
+***REMOVED***
+
+.dataTables_paginate ***REMOVED***
+    float: right;
+    text-align: right
+***REMOVED***
+
+.dataTables_empty,
+table.display td.center ***REMOVED***
+    text-align: center
+***REMOVED***
+
+table.dataTable td.focus,
+table.dataTable th.focus ***REMOVED***
+    outline: #1ABB9C solid 2px!important;
+    outline-offset: -1px
+***REMOVED***
+
+.paging_full_numbers a:active,
+table.display thead td:active,
+table.display thead th:active ***REMOVED***
+    outline: 0
+***REMOVED***
+
+table.display ***REMOVED***
+    margin: 0 auto;
+    clear: both;
+    width: 100%
+***REMOVED***
+
+table.display thead th ***REMOVED***
+    padding: 8px 18px 8px 10px;
+    border-bottom: 1px solid #000;
+    font-weight: 700;
+    cursor: pointer
+***REMOVED***
+
+table.display tfoot th ***REMOVED***
+    padding: 3px 18px 3px 10px;
+    border-top: 1px solid #000;
+    font-weight: 700
+***REMOVED***
+
+table.display tr.heading2 td ***REMOVED***
+    border-bottom: 1px solid #aaa
+***REMOVED***
+
+table.display td ***REMOVED***
+    padding: 3px 10px
+***REMOVED***
+
+.dataTables_scroll ***REMOVED***
+    clear: both
+***REMOVED***
+
+.dataTables_scrollBody ***REMOVED***
+    -webkit-overflow-scrolling: touch
+***REMOVED***
+
+.top .dataTables_info ***REMOVED***
+    float: none
+***REMOVED***
+
+.clear ***REMOVED***
+    clear: both
+***REMOVED***
+
+tfoot input ***REMOVED***
+    margin: .5em 0;
+    width: 100%;
+    color: #444
+***REMOVED***
+
+tfoot input.search_init ***REMOVED***
+    color: #999
+***REMOVED***
+
+td.group ***REMOVED***
+    border-bottom: 2px solid #A19B9E;
+    border-top: 2px solid #A19B9E
+***REMOVED***
+
+td.details ***REMOVED***
+    border: 2px solid #A19B9E
+***REMOVED***
+
+.example_alt_pagination div.dataTables_info ***REMOVED***
+    width: 40%
+***REMOVED***
+
+.paging_full_numbers ***REMOVED***
+    width: 400px;
+    height: 22px;
+    line-height: 22px
+***REMOVED***
+
+.paging_full_numbers a.paginate_active,
+.paging_full_numbers a.paginate_button ***REMOVED***
+    border: 1px solid #aaa;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    padding: 2px 5px;
+    margin: 0 3px;
+    cursor: pointer
+***REMOVED***
+
+.paging_full_numbers a.paginate_button ***REMOVED***
+    background-color: #ddd
+***REMOVED***
+
+.paging_full_numbers a.paginate_button:hover ***REMOVED***
+    background-color: #ccc;
+    text-decoration: none!important
+***REMOVED***
+
+.login_content .btn-default:hover,
+.login_content a,
+.tagsinput span.tag a,
+.tile-stats>.dash-box-footer,
+.tile:hover,
+.view a.info,
+span.tag ***REMOVED***
+    text-decoration: none
+***REMOVED***
+
+table.display tr.even.row_selected td ***REMOVED***
+    background-color: #B0BED9
+***REMOVED***
+
+table.display tr.odd.row_selected td ***REMOVED***
+    background-color: #9FAFD1
+***REMOVED***
+
+div.box ***REMOVED***
+    height: 100px;
+    padding: 10px;
+    overflow: auto;
+    border: 1px solid #8080FF;
+    background-color: #E5E5FF
+***REMOVED***
+
+ul.msg_list li ***REMOVED***
+    background: #f7f7f7;
+    padding: 5px;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 6px 6px 0;
+    width: 96%!important
+***REMOVED***
+
+ul.msg_list li:last-child ***REMOVED***
+    margin-bottom: 6px;
+    padding: 10px
+***REMOVED***
+
+ul.msg_list li a ***REMOVED***
+    padding: 3px 5px!important
+***REMOVED***
+
+ul.msg_list li a .image img ***REMOVED***
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    float: left;
+    margin-right: 10px;
+    width: 11%
+***REMOVED***
+
+ul.msg_list li a .time ***REMOVED***
+    font-size: 11px;
+    font-style: italic;
+    font-weight: 700;
+    position: absolute;
+    right: 35px
+***REMOVED***
+
+ul.msg_list li a .message ***REMOVED***
+    display: block!important;
+    font-size: 11px
+***REMOVED***
+
+.dropdown-menu.msg_list span ***REMOVED***
+    white-space: normal
+***REMOVED***
+
+.tile_count .tile_stats_count,
+ul.quick-list li ***REMOVED***
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis
+***REMOVED***
+
+.dropdown-menu ***REMOVED***
+    box-shadow: none;
+    display: none;
+    float: left;
+    font-size: 12px;
+    left: 0;
+    list-style: none;
+    padding: 0;
+    position: absolute;
+    text-shadow: none;
+    top: 100%;
+    z-index: 9998;
+    border: 1px solid #D9DEE4;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0
+***REMOVED***
+
+.dropdown-menu>li>a ***REMOVED***
+    color: #5A738E
+***REMOVED***
+
+.navbar-nav .open .dropdown-menu ***REMOVED***
+    position: absolute;
+    background: #fff;
+    margin-top: 0;
+    border: 1px solid #D9DEE4;
+    -webkit-box-shadow: none;
+    right: 0;
+    left: auto;
+    width: 220px
+***REMOVED***
+
+.navbar-nav .open .dropdown-menu.msg_list ***REMOVED***
+    width: 300px
+***REMOVED***
+
+.info-number .badge ***REMOVED***
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 13px;
+    padding: 2px 6px;
+    position: absolute;
+    right: 2px;
+    top: 8px
+***REMOVED***
+
+ul.to_do ***REMOVED***
+    padding: 0
+***REMOVED***
+
+ul.to_do li ***REMOVED***
+    background: #f3f3f3;
+    border-radius: 3px;
+    position: relative;
+    padding: 7px;
+    margin-bottom: 5px;
+    list-style: none
+***REMOVED***
+
+ul.to_do p ***REMOVED***
+    margin: 0
+***REMOVED***
+
+.dashboard-widget ***REMOVED***
+    background: #f6f6f6;
+    border-top: 5px solid #79C3DF;
+    border-radius: 3px;
+    padding: 5px 10px 10px
+***REMOVED***
+
+.dashboard-widget .dashboard-widget-title ***REMOVED***
+    font-weight: 400;
+    border-bottom: 1px solid #c1cdcd;
+    margin: 0 0 10px;
+    padding-bottom: 5px;
+    padding-left: 40px;
+    line-height: 30px
+***REMOVED***
+
+.dashboard-widget .dashboard-widget-title i ***REMOVED***
+    font-size: 100%;
+    margin-left: -35px;
+    margin-right: 10px;
+    color: #33a1c9;
+    padding: 3px 6px;
+    border: 1px solid #abd9ea;
+    border-radius: 5px;
+    background: #fff
+***REMOVED***
+
+ul.quick-list ***REMOVED***
+    width: 45%;
+    padding-left: 0;
+    display: inline-block
+***REMOVED***
+
+ul.quick-list li ***REMOVED***
+    padding-left: 10px;
+    list-style: none;
+    margin: 0;
+    padding-bottom: 6px;
+    padding-top: 4px
+***REMOVED***
+
+ul.quick-list li i ***REMOVED***
+    padding-right: 10px;
+    color: #757679
+***REMOVED***
+
+.dashboard-widget-content ***REMOVED***
+    padding-top: 9px
+***REMOVED***
+
+.dashboard-widget-content .sidebar-widget ***REMOVED***
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+    background: #fff;
+    border: 1px solid #abd9ea;
+    border-radius: 5px;
+    text-align: center;
+    float: right;
+    padding: 2px;
+    margin-top: 10px
+***REMOVED***
+
+.widget_summary ***REMOVED***
+    width: 100%;
+    display: -ms-inline-flexbox;
+    display: inline-flex
+***REMOVED***
+
+.widget_summary .w_left ***REMOVED***
+    float: left;
+    text-align: left
+***REMOVED***
+
+.widget_summary .w_center ***REMOVED***
+    float: left
+***REMOVED***
+
+.widget_summary .w_right ***REMOVED***
+    float: left;
+    text-align: right
+***REMOVED***
+
+.widget_summary .w_right span ***REMOVED***
+    font-size: 20px
+***REMOVED***
+
+.w_20 ***REMOVED***
+    width: 20%
+***REMOVED***
+
+.w_25 ***REMOVED***
+    width: 25%
+***REMOVED***
+
+.w_55 ***REMOVED***
+    width: 55%
+***REMOVED***
+
+h5.graph_title ***REMOVED***
+    text-align: left;
+    margin-left: 10px
+***REMOVED***
+
+h5.graph_title i ***REMOVED***
+    margin-right: 10px;
+    font-size: 17px
+***REMOVED***
+
+span.right ***REMOVED***
+    float: right;
+    font-size: 14px!important
+***REMOVED***
+
+.tile_info a ***REMOVED***
+    text-overflow: ellipsis
+***REMOVED***
+
+.sidebar-footer ***REMOVED***
+    bottom: 0;
+    clear: both;
+    display: block;
+    padding: 5px 0 0;
+    position: fixed;
+    width: 230px;
+    background: #2A3F54;
+    z-index: 999
+***REMOVED***
+
+.sidebar-footer a ***REMOVED***
+    padding: 7px 0 3px;
+    text-align: center;
+    width: 25%;
+    font-size: 17px;
+    display: block;
+    float: left;
+    background: #172D44;
+    cursor: pointer
+***REMOVED***
+
+.sidebar-footer a:hover ***REMOVED***
+    background: #425567
+***REMOVED***
+
+.tile_count ***REMOVED***
+    margin-bottom: 20px;
+    margin-top: 20px
+***REMOVED***
+
+.tile_count .tile_stats_count ***REMOVED***
+    border-bottom: 1px solid #D9DEE4;
+    padding: 0 10px 0 20px;
+    position: relative
+***REMOVED***
+
+.tile_count .tile_stats_count:before ***REMOVED***
+    content: "";
+    position: absolute;
+    left: 0;
+    height: 65px;
+    border-left: 2px solid #ADB2B5;
+    margin-top: 10px
+***REMOVED***
+
+@media (min-width:992px) ***REMOVED***
+    footer ***REMOVED***
+        margin-left: 230px
+  ***REMOVED***
+    .tile_count .tile_stats_count ***REMOVED***
+        margin-bottom: 10px;
+        border-bottom: 0;
+        padding-bottom: 10px
+  ***REMOVED***
+    .tile_count .tile_stats_count:first-child:before ***REMOVED***
+        border-left: 0
+  ***REMOVED***
+***REMOVED***
+
+.tile_count .tile_stats_count .count ***REMOVED***
+    font-size: 30px;
+    line-height: 47px;
+    font-weight: 600
+***REMOVED***
+
+@media (min-width:768px) ***REMOVED***
+    .tile_count .tile_stats_count .count ***REMOVED***
+        font-size: 40px
+  ***REMOVED***
+***REMOVED***
+
+@media (min-width:992px) and (max-width:1100px) ***REMOVED***
+    .tile_count .tile_stats_count .count ***REMOVED***
+        font-size: 30px
+  ***REMOVED***
+***REMOVED***
+
+.tile_count .tile_stats_count span ***REMOVED***
+    font-size: 12px
+***REMOVED***
+
+@media (min-width:768px) ***REMOVED***
+    .tile_count .tile_stats_count span ***REMOVED***
+        font-size: 13px
+  ***REMOVED***
+***REMOVED***
+
+.tile_count .tile_stats_count .count_bottom i ***REMOVED***
+    width: 12px
+***REMOVED***
+
+.portlet-light ***REMOVED***
+      background: #fff;
+    padding: 7px 10px;
+    border-radius: 4px;
+***REMOVED***
+
+.dashboard_graph .col-md-3,
+.dashboard_graph .col-md-9 ***REMOVED***
+    padding: 0
+***REMOVED***
+
+a.user-profile ***REMOVED***
+    color: #5E6974!important
+***REMOVED***
+
+.user-profile img ***REMOVED***
+    width: 29px;
+    height: 29px;
+    border-radius: 50%;
+    margin-right: 10px
+***REMOVED***
+
+ul.top_profiles ***REMOVED***
+    height: 330px;
+    width: 100%
+***REMOVED***
+
+ul.top_profiles li ***REMOVED***
+    margin: 0;
+    padding: 3px 5px
+***REMOVED***
+
+ul.top_profiles li:nth-child(odd) ***REMOVED***
+    background-color: #eee
+***REMOVED***
+
+.media .profile_thumb ***REMOVED***
+    border: 1px solid;
+    width: 50px;
+    height: 50px;
+    margin: 5px 10px 5px 0;
+    border-radius: 50%;
+    padding: 9px 12px
+***REMOVED***
+
+.media .profile_thumb i ***REMOVED***
+    font-size: 30px
+***REMOVED***
+
+.media .date ***REMOVED***
+    background: #ccc;
+    width: 52px;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding: 5px
+***REMOVED***
+
+.media .date .day,
+.media .date .month ***REMOVED***
+    margin: 0;
+    text-align: center;
+    color: #fff
+***REMOVED***
+
+.media .date .day ***REMOVED***
+    font-size: 27px;
+    line-height: 27px;
+    font-weight: 700
+***REMOVED***
+
+.event .media-body a.title ***REMOVED***
+    font-weight: 700
+***REMOVED***
+
+.event .media-body p ***REMOVED***
+    margin-bottom: 0
+***REMOVED***
+
+h4.graph_title ***REMOVED***
+    margin: 7px;
+    text-align: center
+***REMOVED***
+
+.fontawesome-icon-list .fa-hover a:hover ***REMOVED***
+    background-color: #ddd;
+    color: #fff;
+    text-decoration: none
+***REMOVED***
+
+.fontawesome-icon-list .fa-hover a ***REMOVED***
+    display: block;
+    line-height: 32px;
+    height: 32px;
+    padding-left: 10px;
+    border-radius: 4px
+***REMOVED***
+
+.fontawesome-icon-list .fa-hover a:hover .fa ***REMOVED***
+    font-size: 28px;
+    vertical-align: -6px
+***REMOVED***
+
+.fontawesome-icon-list .fa-hover a .fa ***REMOVED***
+    width: 32px;
+    font-size: 16px;
+    display: inline-block;
+    text-align: right;
+    margin-right: 10px
+***REMOVED***
+
+.main_menu .fa ***REMOVED***
+    width: 26px;
+    opacity: .99;
+    display: inline-block;
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    -moz-osx-font-smoothing: grayscale
+***REMOVED***
+
+.tile-stats ***REMOVED***
+    position: relative;
+    display: block;
+    margin-bottom: 12px;
+    border: 1px solid #E4E4E4;
+    -webkit-border-radius: 5px;
+    overflow: hidden;
+    padding-bottom: 5px;
+    -webkit-background-clip: padding-box;
+    -moz-border-radius: 5px;
+    -moz-background-clip: padding;
+    border-radius: 5px;
+    background: #FFF;
+    transition: all .3s ease-in-out
+***REMOVED***
+
+.tile-stats:hover .icon i ***REMOVED***
+    animation-name: transformAnimation;
+    animation-duration: .5s;
+    animation-iteration-count: 1;
+    color: rgba(58, 58, 58, .41);
+    animation-timing-function: ease;
+    animation-fill-mode: forwards;
+    -webkit-animation-name: transformAnimation;
+    -webkit-animation-duration: .5s;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-timing-function: ease;
+    -webkit-animation-fill-mode: forwards;
+    -moz-animation-name: transformAnimation;
+    -moz-animation-duration: .5s;
+    -moz-animation-iteration-count: 1;
+    -moz-animation-timing-function: ease;
+    -moz-animation-fill-mode: forwards
+***REMOVED***
+
+.tile-stats .icon ***REMOVED***
+    width: 20px;
+    height: 20px;
+    color: #BAB8B8;
+    position: absolute;
+    right: 53px;
+    top: 22px;
+    z-index: 1
+***REMOVED***
+
+.tile-stats .icon i ***REMOVED***
+    margin: 0;
+    font-size: 60px;
+    line-height: 0;
+    vertical-align: bottom;
+    padding: 0
+***REMOVED***
+
+.tile-stats .count ***REMOVED***
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 1.65857
+***REMOVED***
+
+.tile-stats .count,
+.tile-stats h3,
+.tile-stats p ***REMOVED***
+    position: relative;
+    margin: 0 0 0 10px;
+    z-index: 5;
+    padding: 0
+***REMOVED***
+
+.tile-stats h3 ***REMOVED***
+    color: #BAB8B8
+***REMOVED***
+
+.tile-stats p ***REMOVED***
+    margin-top: 5px;
+    font-size: 12px
+***REMOVED***
+
+.tile-stats>.dash-box-footer ***REMOVED***
+    position: relative;
+    text-align: center;
+    margin-top: 5px;
+    padding: 3px 0;
+    color: #fff;
+    color: rgba(255, 255, 255, .8);
+    display: block;
+    z-index: 10;
+    background: rgba(0, 0, 0, .1)
+***REMOVED***
+
+.tile-stats>.dash-box-footer:hover ***REMOVED***
+    color: #fff;
+    background: rgba(0, 0, 0, .15)
+***REMOVED***
+
+table.tile_info ***REMOVED***
+    padding: 10px 15px
+***REMOVED***
+
+table.tile_info span.right ***REMOVED***
+    margin-right: 0;
+    float: right;
+    position: absolute;
+    right: 4%
+***REMOVED***
+
+.tile_header ***REMOVED***
+    border-bottom: transparent;
+    padding: 7px 15px;
+    margin-bottom: 15px;
+    background: #E7E7E7
+***REMOVED***
+
+.tile_head h4 ***REMOVED***
+    margin-top: 0;
+    margin-bottom: 5px
+***REMOVED***
+
+.tiles-bottom ***REMOVED***
+    padding: 5px 10px;
+    margin-top: 10px;
+    background: rgba(194, 194, 194, .3);
+    text-align: left
+***REMOVED***
+
+a.star ***REMOVED***
+    color: #428bca!important
+***REMOVED***
+
+.mail_content ***REMOVED***
+    background: #FFF;
+    border-radius: 4px;
+    margin-top: 20px;
+    min-height: 500px;
+    padding: 10px 11px;
+    width: 100%
+***REMOVED***
+
+.list-btn-mail ***REMOVED***
+    margin-bottom: 15px
+***REMOVED***
+
+.list-btn-mail.active ***REMOVED***
+    border-bottom: 1px solid #39B3D7;
+    padding: 0 0 14px
+***REMOVED***
+
+.list-btn-mail>i ***REMOVED***
+    float: left;
+    font-size: 18px;
+    font-style: normal;
+    width: 33px
+***REMOVED***
+
+.list-btn-mail>.cn ***REMOVED***
+    background: #39B3D7;
+    border-radius: 12px;
+    color: #FFF;
+    float: right;
+    font-style: normal;
+    padding: 0 5px
+***REMOVED***
+
+.byline,
+.view p ***REMOVED***
+    font-style: italic
+***REMOVED***
+
+.button-mail ***REMOVED***
+    margin: 0 0 15px!important;
+    text-align: left;
+    width: 100%
+***REMOVED***
+
+.btn,
+.buttons,
+.modal-footer .btn+.btn,
+button ***REMOVED***
+    margin-bottom: 5px;
+    margin-right: 5px
+***REMOVED***
+
+.btn-group .btn,
+.btn-group-vertical .btn ***REMOVED***
+    margin-bottom: 0;
+    margin-right: 0
+***REMOVED***
+
+.mail_list_column,
+.mail_view ***REMOVED***
+    border-left: 1px solid #DBDBDB
+***REMOVED***
+
+.mail_list ***REMOVED***
+    width: 100%;
+    border-bottom: 1px solid #DBDBDB;
+    margin-bottom: 2px;
+    display: inline-block
+***REMOVED***
+
+.mail_list .left ***REMOVED***
+    width: 5%;
+    float: left;
+    margin-right: 3%
+***REMOVED***
+
+.mail_list .right ***REMOVED***
+    width: 90%;
+    float: left
+***REMOVED***
+
+.mail_list h3 ***REMOVED***
+    font-size: 15px;
+    font-weight: 700;
+    margin: 0 0 6px
+***REMOVED***
+
+.mail_list h3 small ***REMOVED***
+    float: right;
+    color: #ADABAB;
+    font-size: 11px;
+    line-height: 20px
+***REMOVED***
+
+.mail_list .badge ***REMOVED***
+    padding: 3px 6px;
+    font-size: 8px;
+    background: #BAB7B7
+***REMOVED***
+
+@media (max-width:767px) ***REMOVED***
+    .mail_list ***REMOVED***
+        margin-bottom: 5px;
+        display: inline-block
+  ***REMOVED***
+***REMOVED***
+
+.mail_heading h4 ***REMOVED***
+    font-size: 18px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+    margin-top: 20px
+***REMOVED***
+
+.attachment ***REMOVED***
+    margin-top: 30px
+***REMOVED***
+
+.attachment ul ***REMOVED***
+    width: 100%;
+    list-style: none;
+    padding-left: 0;
+    display: inline-block;
+    margin-bottom: 30px
+***REMOVED***
+
+.attachment ul li ***REMOVED***
+    float: left;
+    width: 150px;
+    margin-right: 10px;
+    margin-bottom: 10px
+***REMOVED***
+
+.attachment ul li img ***REMOVED***
+    height: 150px;
+    border: 1px solid #ddd;
+    padding: 5px;
+    margin-bottom: 10px
+***REMOVED***
+
+.attachment ul li span ***REMOVED***
+    float: right
+***REMOVED***
+
+.attachment .file-name ***REMOVED***
+    float: left
+***REMOVED***
+
+.attachment .links ***REMOVED***
+    width: 100%;
+    display: inline-block
+***REMOVED***
+
+.compose ***REMOVED***
+    padding: 0;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background: #fff;
+    border: 1px solid #D9DEE4;
+    border-right: 0;
+    border-bottom: 0;
+    border-top-left-radius: 5px;
+    z-index: 9999;
+    display: none
+***REMOVED***
+
+.compose .compose-header ***REMOVED***
+    padding: 5px;
+    background: #169F85;
+    color: #fff;
+    border-top-left-radius: 5px
+***REMOVED***
+
+.compose .compose-header .close ***REMOVED***
+    text-shadow: 0 1px 0 #fff;
+    line-height: .8
+***REMOVED***
+
+.compose .compose-body .editor.btn-toolbar ***REMOVED***
+    margin: 0
+***REMOVED***
+
+.compose .compose-body .editor-wrapper ***REMOVED***
+    height: 100%;
+    min-height: 50px;
+    max-height: 180px;
+    border-radius: 0;
+    border-left: none;
+    border-right: none;
+    overflow: auto
+***REMOVED***
+
+.compose .compose-footer ***REMOVED***
+    padding: 10px
+***REMOVED***
+
+.editor.btn-toolbar ***REMOVED***
+    zoom: 1;
+    background: #F7F7F7;
+    margin: 5px 2px;
+    padding: 3px 0;
+    border: 1px solid #EFEFEF
+***REMOVED***
+
+.input-group ***REMOVED***
+    margin-bottom: 10px
+***REMOVED***
+
+.ln_solid ***REMOVED***
+    border-top: 1px solid #e5e5e5;
+    color: #fff;
+    background-color: #fff;
+    height: 1px;
+    margin: 20px 0
+***REMOVED***
+
+span.section ***REMOVED***
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin-bottom: 20px;
+    font-size: 21px;
+    line-height: inherit;
+    color: #333;
+    border: 0;
+    border-bottom: 1px solid #e5e5e5
+***REMOVED***
+
+.form-control ***REMOVED***
+    border-radius: 0;
+    width: 100%
+***REMOVED***
+
+.form-horizontal .control-label ***REMOVED***
+    padding-top: 8px
+***REMOVED***
+
+.form-control:focus ***REMOVED***
+    border-color: #CCD0D7;
+    box-shadow: none!important
+***REMOVED***
+
+legend ***REMOVED***
+    font-size: 18px;
+    color: inherit
+***REMOVED***
+
+.form-horizontal .form-group ***REMOVED***
+    margin-right: 0;
+    margin-left: 0
+***REMOVED***
+
+.form-control-feedback ***REMOVED***
+    margin-top: 8px;
+    height: 23px;
+    color: #bbb;
+    line-height: 24px;
+    font-size: 15px
+***REMOVED***
+
+.form-control-feedback.left ***REMOVED***
+    border-right: 1px solid #ccc;
+    left: 13px
+***REMOVED***
+
+.form-control-feedback.right ***REMOVED***
+    border-left: 1px solid #ccc;
+    right: 13px
+***REMOVED***
+
+.form-control.has-feedback-left ***REMOVED***
+    padding-left: 45px
+***REMOVED***
+
+.form-control.has-feedback-right ***REMOVED***
+    padding-right: 45px
+***REMOVED***
+
+.form-group ***REMOVED***
+    margin-bottom: 10px
+***REMOVED***
+
+.validate ***REMOVED***
+    margin-top: 10px
+***REMOVED***
+
+.invalid-form-error-message ***REMOVED***
+    margin-top: 10px;
+    padding: 5px
+***REMOVED***
+
+.invalid-form-error-message.filled ***REMOVED***
+    border-left: 2px solid #E74C3C
+***REMOVED***
+
+p.parsley-success ***REMOVED***
+    color: #468847;
+    background-color: #DFF0D8;
+    border: 1px solid #D6E9C6
+***REMOVED***
+
+p.parsley-error ***REMOVED***
+    color: #B94A48;
+    background-color: #F2DEDE;
+    border: 1px solid #EED3D7
+***REMOVED***
+
+ul.parsley-errors-list ***REMOVED***
+    list-style: none;
+    color: #E74C3C;
+    padding-left: 0
+***REMOVED***
+
+input.parsley-error,
+select.parsley-error,
+textarea.parsley-error ***REMOVED***
+    background: #FAEDEC;
+    border: 1px solid #E85445
+***REMOVED***
+
+.btn-group .parsley-errors-list ***REMOVED***
+    display: none
+***REMOVED***
+
+.bad input,
+.bad select,
+.bad textarea ***REMOVED***
+    border: 1px solid #CE5454;
+    box-shadow: 0 0 4px -2px #CE5454;
+    position: relative;
+    left: 0;
+    -moz-animation: .7s 1 shake linear;
+    -webkit-animation: .7s 1 shake linear
+***REMOVED***
+
+.item input,
+.item textarea ***REMOVED***
+    transition: .42s
+***REMOVED***
+
+.item .alert ***REMOVED***
+    float: left;
+    margin: 0 0 0 20px;
+    padding: 3px 10px;
+    color: #FFF;
+    border-radius: 3px 4px 4px 3px;
+    background-color: #CE5454;
+    max-width: 170px;
+    white-space: pre;
+    position: relative;
+    left: -15px;
+    opacity: 0;
+    z-index: 1;
+    transition: .15s ease-out
+***REMOVED***
+
+.item .alert::after ***REMOVED***
+    content: '';
+    display: block;
+    height: 0;
+    width: 0;
+    border-color: transparent #CE5454 transparent transparent;
+    border-style: solid;
+    border-width: 11px 7px;
+    position: absolute;
+    left: -13px;
+    top: 1px
+***REMOVED***
+
+.item.bad .alert ***REMOVED***
+    left: 0;
+    opacity: 1
+***REMOVED***
+
+.inl-bl ***REMOVED***
+    display: inline-block
+***REMOVED***
+
+.well .markup ***REMOVED***
+    background: #fff;
+    color: #777;
+    position: relative;
+    padding: 45px 15px 15px;
+    margin: 15px 0 0;
+    border-radius: 0 0 4px 4px;
+    box-shadow: none
+***REMOVED***
+
+.well .markup::after ***REMOVED***
+    content: "Example";
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #bbb;
+    text-transform: uppercase;
+    letter-spacing: 1px
+***REMOVED***
+
+.autocomplete-suggestions ***REMOVED***
+    border: 1px solid #e4e4e4;
+    background: #F4F4F4;
+    cursor: default;
+    overflow: auto
+***REMOVED***
+
+.autocomplete-suggestion ***REMOVED***
+    padding: 2px 5px;
+    font-size: 1.2em;
+    white-space: nowrap;
+    overflow: hidden
+***REMOVED***
+
+.autocomplete-selected ***REMOVED***
+    background: #f0f0f0
+***REMOVED***
+
+.autocomplete-suggestions strong ***REMOVED***
+    color: #39f;
+    font-weight: bolder
+***REMOVED***
+
+.btn ***REMOVED***
+    border-radius: 3px
+***REMOVED***
+
+a.btn-danger,
+a.btn-primary,
+a.btn-success,
+a.btn-warning ***REMOVED***
+    color: #fff
+***REMOVED***
+
+.btn-success ***REMOVED***
+    background: #26B99A;
+    border: 1px solid #169F85
+***REMOVED***
+
+.btn-success.active,
+.btn-success:active,
+.btn-success:focus,
+.btn-success:hover,
+.open .dropdown-toggle.btn-success ***REMOVED***
+    background: #169F85
+***REMOVED***
+
+.btn-dark ***REMOVED***
+    color: #E9EDEF;
+    background-color: #4B5F71;
+    border-color: #364B5F
+***REMOVED***
+
+.btn-dark.active,
+.btn-dark:active,
+.btn-dark:focus,
+.btn-dark:hover,
+.open .dropdown-toggle.btn-dark ***REMOVED***
+    color: #FFF;
+    background-color: #394D5F;
+    border-color: #394D5F
+***REMOVED***
+
+.btn-round ***REMOVED***
+    border-radius: 30px
+***REMOVED***
+
+.btn.btn-app ***REMOVED***
+    position: relative;
+    padding: 15px 5px;
+    margin: 0 0 10px 10px;
+    min-width: 80px;
+    height: 60px;
+    box-shadow: none;
+    border-radius: 0;
+    text-align: center;
+    color: #666;
+    border: 1px solid #ddd;
+    background-color: #fafafa;
+    font-size: 12px
+***REMOVED***
+
+.btn.btn-app>.fa,
+.btn.btn-app>.glyphicon,
+.btn.btn-app>.ion ***REMOVED***
+    font-size: 20px;
+    display: block
+***REMOVED***
+
+.btn.btn-app:hover ***REMOVED***
+    background: #f4f4f4;
+    color: #444;
+    border-color: #aaa
+***REMOVED***
+
+.btn.btn-app:active,
+.btn.btn-app:focus ***REMOVED***
+    box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125)
+***REMOVED***
+
+.btn.btn-app>.badge ***REMOVED***
+    position: absolute;
+    top: -3px;
+    right: -10px;
+    font-size: 10px;
+    font-weight: 400
+***REMOVED***
+
+textarea ***REMOVED***
+    padding: 10px;
+    vertical-align: top;
+    width: 200px
+***REMOVED***
+
+textarea:focus ***REMOVED***
+    outline-style: solid;
+    outline-width: 2px
+***REMOVED***
+
+.btn_ ***REMOVED***
+    display: inline-block;
+    padding: 3px 9px;
+    margin-bottom: 0;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    color: #333;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, .75);
+    background-color: #f5f5f5;
+    background-image: linear-gradient(to bottom, #fff, #e6e6e6);
+    background-repeat: repeat-x;
+    filter: progid: DXImageTransform.Microsoft.gradient(enabled=false);
+    border: 1px solid #ccc;
+    border-bottom-color: #b3b3b3;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, .2), 0 1px 2px rgba(0, 0, 0, .05)
+***REMOVED***
+
+.bs-glyphicons ***REMOVED***
+    margin: 0 -10px 20px;
+    overflow: hidden
+***REMOVED***
+
+.bs-glyphicons-list ***REMOVED***
+    padding-left: 0;
+    list-style: none
+***REMOVED***
+
+.bs-glyphicons li ***REMOVED***
+    float: left;
+    width: 25%;
+    height: 115px;
+    padding: 10px;
+    font-size: 10px;
+    line-height: 1.4;
+    text-align: center;
+    background-color: #f9f9f9;
+    border: 1px solid #fff
+***REMOVED***
+
+.bs-glyphicons .glyphicon ***REMOVED***
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 24px
+***REMOVED***
+
+.bs-glyphicons .glyphicon-class ***REMOVED***
+    display: block;
+    text-align: center;
+    word-wrap: break-word
+***REMOVED***
+
+.bs-glyphicons li:hover ***REMOVED***
+    color: #fff;
+    background-color: #1ABB9C
+***REMOVED***
+
+@media (min-width:768px) ***REMOVED***
+    .bs-glyphicons ***REMOVED***
+        margin-right: 0;
+        margin-left: 0
+  ***REMOVED***
+    .bs-glyphicons li ***REMOVED***
+        width: 12.5%;
+        font-size: 12px
+  ***REMOVED***
+***REMOVED***
+
+.tagsinput ***REMOVED***
+    border: 1px solid #CCC;
+    background: #FFF;
+    padding: 6px 6px 0;
+    width: 300px;
+    overflow-y: auto
+***REMOVED***
+
+span.tag ***REMOVED***
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    display: block;
+    float: left;
+    padding: 5px 9px;
+    background: #1ABB9C;
+    color: #F1F6F7;
+    margin-right: 5px;
+    font-weight: 500;
+    margin-bottom: 5px;
+    font-family: helvetica
+***REMOVED***
+
+span.tag a ***REMOVED***
+    color: #F1F6F7!important
+***REMOVED***
+
+.tagsinput span.tag a ***REMOVED***
+    font-weight: 700;
+    color: #82ad2b;
+    font-size: 11px
+***REMOVED***
+
+.tagsinput input ***REMOVED***
+    width: 80px;
+    margin: 0;
+    font-family: helvetica;
+    font-size: 13px;
+    border: 1px solid transparent;
+    padding: 3px;
+    background: 0 0;
+    color: #000;
+    outline: 0
+***REMOVED***
+
+.tagsinput div ***REMOVED***
+    display: block;
+    float: left
+***REMOVED***
+
+.social-body,
+.social-sidebar,
+ul.bar_tabs.right li ***REMOVED***
+    float: right
+***REMOVED***
+
+.tags_clear ***REMOVED***
+    clear: both;
+    width: 100%;
+    height: 0
+***REMOVED***
+
+.not_valid ***REMOVED***
+    background: #FBD8DB!important;
+    color: #90111A!important
+***REMOVED***
+
+ul.bar_tabs ***REMOVED***
+    overflow: visible;
+    background: #F5F7FA;
+    height: 25px;
+    margin: 21px 0 14px;
+    padding-left: 14px;
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    border-bottom: 1px solid #E6E9ED
+***REMOVED***
+
+ul.bar_tabs>li ***REMOVED***
+    border: 1px solid #E6E9ED;
+    color: #333!important;
+    margin-top: -17px;
+    margin-left: 8px;
+    background: #fff;
+    border-bottom: none;
+    border-radius: 4px 4px 0 0
+***REMOVED***
+
+ul.bar_tabs>li.active ***REMOVED***
+    border-right: 6px solid #D3D6DA;
+    border-top: 0;
+    margin-top: -15px
+***REMOVED***
+
+ul.bar_tabs>li a ***REMOVED***
+    padding: 10px 17px;
+    background: #F5F7FA;
+    margin: 0;
+    border-top-right-radius: 0
+***REMOVED***
+
+ul.bar_tabs>li a:hover ***REMOVED***
+    border: 1px solid transparent
+***REMOVED***
+
+ul.bar_tabs>li.active a ***REMOVED***
+    border-bottom: none
+***REMOVED***
+
+ul.bar_tabs.right ***REMOVED***
+    padding-right: 14px
+***REMOVED***
+
+a:focus ***REMOVED***
+    outline: 0
+***REMOVED***
+
+ul.timeline li ***REMOVED***
+    position: relative;
+    border-bottom: 1px solid #e8e8e8;
+    clear: both
+***REMOVED***
+
+.timeline .block ***REMOVED***
+    margin: 0 0 0 105px;
+    border-left: 3px solid #e8e8e8;
+    overflow: visible;
+    padding: 10px 15px
+***REMOVED***
+
+.timeline.widget ***REMOVED***
+    min-width: 0;
+    max-width: inherit
+***REMOVED***
+
+.timeline.widget .block ***REMOVED***
+    margin-left: 5px
+***REMOVED***
+
+.timeline .tags ***REMOVED***
+    position: absolute;
+    top: 15px;
+    left: 0;
+    width: 84px
+***REMOVED***
+
+.timeline .tag ***REMOVED***
+    display: block;
+    height: 30px;
+    font-size: 13px;
+    padding: 8px
+***REMOVED***
+
+.timeline .tag span ***REMOVED***
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    white-space: nowrap;
+    text-overflow: ellipsis
+***REMOVED***
+
+.tag ***REMOVED***
+    line-height: 1;
+    background: #1ABB9C;
+    color: #fff!important
+***REMOVED***
+
+.tag:after ***REMOVED***
+    content: " ";
+    height: 30px;
+    width: 0;
+    position: absolute;
+    left: 100%;
+    top: 0;
+    margin: 0;
+    pointer-events: none;
+    border-top: 14px solid transparent;
+    border-bottom: 14px solid transparent;
+    border-left: 11px solid #1ABB9C
+***REMOVED***
+
+.timeline h2.title ***REMOVED***
+    position: relative;
+    font-size: 16px;
+    margin: 0
+***REMOVED***
+
+.timeline h2.title:before ***REMOVED***
+    content: "";
+    position: absolute;
+    left: -23px;
+    top: 3px;
+    display: block;
+    width: 14px;
+    height: 14px;
+    border: 3px solid #d2d3d2;
+    border-radius: 14px;
+    background: #f9f9f9
+***REMOVED***
+
+.timeline .byline ***REMOVED***
+    padding: .25em 0
+***REMOVED***
+
+.byline ***REMOVED***
+    font-size: .9375em;
+    line-height: 1.3;
+    color: #aab6aa
+***REMOVED***
+
+ul.social li ***REMOVED***
+    border: 0
+***REMOVED***
+
+.social-sidebar ***REMOVED***
+    background: #EDEDED;
+    width: 22%
+***REMOVED***
+
+.social-body ***REMOVED***
+    border: 1px solid #ccc;
+    width: 78%
+***REMOVED***
+
+.thumb img ***REMOVED***
+    width: 50px;
+    height: 50px;
+    border-radius: 50%
+***REMOVED***
+
+.chat .thumb img ***REMOVED***
+    width: 27px;
+    height: 27px;
+    border-radius: 50%
+***REMOVED***
+
+.chat .status ***REMOVED***
+    float: left;
+    margin: 16px 0 0 -16px;
+    font-size: 14px;
+    font-weight: 700;
+    width: 12px;
+    height: 12px;
+    display: block;
+    border: 2px solid #FFF;
+    z-index: 12312;
+    border-radius: 50%
+***REMOVED***
+
+.chart,
+.percent ***REMOVED***
+    display: inline-block
+***REMOVED***
+
+.chat .status.online ***REMOVED***
+    background: #1ABB9C
+***REMOVED***
+
+.chat .status.away ***REMOVED***
+    background: #F39C12
+***REMOVED***
+
+.chat .status.offline ***REMOVED***
+    background: #ccc
+***REMOVED***
+
+.chat .media-body ***REMOVED***
+    padding-top: 5px
+***REMOVED***
+
+.dashboard_graph .x_title ***REMOVED***
+    padding: 5px 5px 7px
+***REMOVED***
+
+.dashboard_graph .x_title h3 ***REMOVED***
+    margin: 0;
+    font-weight: 400
+***REMOVED***
+
+.chart ***REMOVED***
+    position: relative;
+    width: 110px;
+    height: 110px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center
+***REMOVED***
+
+.chart canvas ***REMOVED***
+    position: absolute;
+    top: 0;
+    left: 0
+***REMOVED***
+
+.percent ***REMOVED***
+    line-height: 110px;
+    z-index: 2;
+    font-size: 18px
+***REMOVED***
+
+.percent:after ***REMOVED***
+    content: '%';
+    margin-left: .1em;
+    font-size: .8em
+***REMOVED***
+
+.angular ***REMOVED***
+    margin-top: 100px
+***REMOVED***
+
+.angular .chart ***REMOVED***
+    margin-top: 0
+***REMOVED***
+
+.widget ***REMOVED***
+    min-width: 250px;
+    max-width: 310px
+***REMOVED***
+
+.widget_tally_box .btn-group button ***REMOVED***
+    text-align: center;
+    color: inherit;
+    font-weight: 500;
+    background-color: #f5f5f5;
+    border: 1px solid #e7e7e7
+***REMOVED***
+
+ul.widget_tally,
+ul.widget_tally li ***REMOVED***
+    width: 100%
+***REMOVED***
+
+ul.widget_tally li ***REMOVED***
+    padding: 2px 10px 4px;
+    border-bottom: 1px solid #ECECEC
+***REMOVED***
+
+ul.widget_tally .month ***REMOVED***
+    width: 70%;
+    float: left
+***REMOVED***
+
+ul.widget_tally .count ***REMOVED***
+    width: 30%;
+    float: left;
+    text-align: right
+***REMOVED***
+
+.pie_bg ***REMOVED***
+    border-bottom: 1px solid rgba(101, 204, 182, .16);
+    border-radius: 4px;
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe6e6e6', GradientType=0);
+    filter: progid: DXImageTransform.Microsoft.gradient(enabled=false);
+    padding-bottom: 10px;
+    box-shadow: 0 4px 6px -6px #222
+***REMOVED***
+
+.widget_tally_box .flex ***REMOVED***
+    display: -ms-flexbox;
+    display: flex
+***REMOVED***
+
+ul.widget_profile_box ***REMOVED***
+    width: 100%;
+    height: 42px;
+    padding: 3px;
+    background: #ececec;
+    margin-top: 40px;
+    margin-left: 1px
+***REMOVED***
+
+ul.widget_profile_box li:first-child ***REMOVED***
+    width: 25%;
+    float: left
+***REMOVED***
+
+ul.widget_profile_box li:first-child a ***REMOVED***
+    float: left
+***REMOVED***
+
+ul.widget_profile_box li:last-child ***REMOVED***
+    width: 25%;
+    float: right
+***REMOVED***
+
+ul.widget_profile_box li:last-child a ***REMOVED***
+    float: right
+***REMOVED***
+
+ul.widget_profile_box li a ***REMOVED***
+    font-size: 22px;
+    text-align: center;
+    width: 35px;
+    height: 35px;
+    border: 1px solid rgba(52, 73, 94, .44);
+    display: block;
+    border-radius: 50%;
+    padding: 0
+***REMOVED***
+
+ul.widget_profile_box li a:hover ***REMOVED***
+    color: #1ABB9C!important;
+    border: 1px solid #26b99a
+***REMOVED***
+
+ul.widget_profile_box li .profile_img ***REMOVED***
+    width: 85px;
+    height: 85px;
+    margin: -28px 0 0
+***REMOVED***
+
+.widget_tally_box p,
+.widget_tally_box span ***REMOVED***
+    text-align: center
+***REMOVED***
+
+.widget_tally_box .name ***REMOVED***
+    text-align: center;
+    margin: 25px
+***REMOVED***
+
+.widget_tally_box .name_title ***REMOVED***
+    text-align: center;
+    margin: 5px
+***REMOVED***
+
+.widget_tally_box ul.legend ***REMOVED***
+    margin: 0
+***REMOVED***
+
+.widget_tally_box ul.legend p,
+.widget_tally_box ul.legend span ***REMOVED***
+    text-align: left
+***REMOVED***
+
+.widget_tally_box ul.legend li .icon ***REMOVED***
+    font-size: 20px;
+    float: left;
+    width: 14px
+***REMOVED***
+
+.widget_tally_box ul.legend li .name ***REMOVED***
+    font-size: 14px;
+    margin: 5px 0 0 14px;
+    text-overflow: ellipsis;
+    float: left
+***REMOVED***
+
+.widget_tally_box ul.legend p ***REMOVED***
+    display: inline-block;
+    margin: 0
+***REMOVED***
+
+.widget_tally_box ul.verticle_bars li ***REMOVED***
+    height: 140px;
+    width: 23%
+***REMOVED***
+
+.widget .verticle_bars li .progress.vertical.progress_wide ***REMOVED***
+    width: 65%
+***REMOVED***
+
+ul.count2 ***REMOVED***
+    width: 100%;
+    margin-left: 1px;
+    border: 1px solid #ddd;
+    border-left: 0;
+    border-right: 0;
+    padding: 10px 0
+***REMOVED***
+
+ul.count2 li ***REMOVED***
+    width: 30%;
+    text-align: center
+***REMOVED***
+
+ul.count2 li h3 ***REMOVED***
+    font-weight: 400;
+    margin: 0
+***REMOVED***
+
+ul.count2 li span ***REMOVED***
+    font-weight: 300
+***REMOVED***
+
+.divider ***REMOVED***
+    border-bottom: 1px solid #ddd;
+    margin: 10px
+***REMOVED***
+
+.divider-dashed ***REMOVED***
+    border-top: 1px dashed #e7eaec;
+    background-color: #fff;
+    height: 1px;
+    margin: 10px 0
+***REMOVED***
+
+ul.messages ***REMOVED***
+    padding: 0;
+    list-style: none
+***REMOVED***
+
+.tasks li,
+ul.messages li ***REMOVED***
+    border-bottom: 1px dotted #e6e6e6;
+    padding: 8px 0
+***REMOVED***
+
+img.avatar,
+ul.messages li img.avatar ***REMOVED***
+    height: 32px;
+    width: 32px;
+    float: left;
+    display: inline-block;
+    border-radius: 2px;
+    padding: 2px;
+    background: #f7f7f7;
+    border: 1px solid #e6e6e6
+***REMOVED***
+
+ul.messages li .message_date ***REMOVED***
+    float: right;
+    text-align: right
+***REMOVED***
+
+ul.messages li .message_wrapper ***REMOVED***
+    margin-left: 50px;
+    margin-right: 40px
+***REMOVED***
+
+ul.messages li .message_wrapper h4.heading ***REMOVED***
+    font-weight: 600;
+    margin: 0 0 10px;
+    cursor: pointer;
+    line-height: 100%
+***REMOVED***
+
+ul.messages li .message_wrapper blockquote ***REMOVED***
+    padding: 0 10px;
+    margin: 0;
+    border-left: 5px solid #eee
+***REMOVED***
+
+ul.user_data li ***REMOVED***
+    margin-bottom: 6px
+***REMOVED***
+
+ul.user_data li p ***REMOVED***
+    margin-bottom: 0
+***REMOVED***
+
+ul.user_data li .progress ***REMOVED***
+    width: 90%
+***REMOVED***
+
+.project_progress .progress ***REMOVED***
+    margin-bottom: 3px!important;
+    margin-top: 5px
+***REMOVED***
+
+.projects .list-inline ***REMOVED***
+    margin: 0
+***REMOVED***
+
+.profile_title ***REMOVED***
+    background: #F5F7FA;
+    border: 0;
+    padding: 7px 0;
+    display: -ms-flexbox;
+    display: flex
+***REMOVED***
+
+ul.stats-overview ***REMOVED***
+    border-bottom: 1px solid #e8e8e8;
+    padding-bottom: 10px;
+    margin-bottom: 10px
+***REMOVED***
+
+ul.stats-overview li ***REMOVED***
+    display: inline-block;
+    text-align: center;
+    padding: 0 15px;
+    width: 30%;
+    font-size: 14px;
+    border-right: 1px solid #e8e8e8
+***REMOVED***
+
+ul.stats-overview li:last-child ***REMOVED***
+    border-right: 0
+***REMOVED***
+
+ul.stats-overview li .name ***REMOVED***
+    font-size: 12px
+***REMOVED***
+
+ul.stats-overview li .value ***REMOVED***
+    font-size: 14px;
+    font-weight: 700;
+    display: block
+***REMOVED***
+
+ul.stats-overview li:first-child ***REMOVED***
+    padding-left: 0
+***REMOVED***
+
+ul.project_files li ***REMOVED***
+    margin-bottom: 5px
+***REMOVED***
+
+ul.project_files li a i ***REMOVED***
+    width: 20px
+***REMOVED***
+
+.project_detail p ***REMOVED***
+    margin-bottom: 10px
+***REMOVED***
+
+.project_detail p.title ***REMOVED***
+    font-weight: 700;
+    margin-bottom: 0
+***REMOVED***
+
+.avatar img ***REMOVED***
+    border-radius: 50%;
+    max-width: 45px
+***REMOVED***
+
+.pricing ***REMOVED***
+    background: #fff
+***REMOVED***
+
+.pricing .title ***REMOVED***
+    background: #1ABB9C;
+    height: 110px;
+    color: #fff;
+    padding: 15px 0 0;
+    text-align: center
+***REMOVED***
+
+.pricing .title h2 ***REMOVED***
+    text-transform: capitalize;
+    font-size: 18px;
+    border-radius: 5px 5px 0 0;
+    margin: 0;
+    font-weight: 400
+***REMOVED***
+
+.notifications a,
+.tabbed_notifications h2,
+.view .tools,
+.view a.info ***REMOVED***
+    text-transform: uppercase
+***REMOVED***
+
+.pricing .title h1 ***REMOVED***
+    font-size: 30px;
+    margin: 12px
+***REMOVED***
+
+.pricing .title span ***REMOVED***
+    background: rgba(51, 51, 51, .28);
+    padding: 2px 5px
+***REMOVED***
+
+.pricing_features ***REMOVED***
+    background: #FAFAFA;
+    padding: 20px 15px;
+    min-height: 230px;
+    font-size: 13.5px
+***REMOVED***
+
+.pricing_features ul li ***REMOVED***
+    margin-top: 10px
+***REMOVED***
+
+.pricing_footer ***REMOVED***
+    padding: 10px 15px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+    text-align: center;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px
+***REMOVED***
+
+.pricing_footer p ***REMOVED***
+    font-size: 13px;
+    padding: 10px 0 2px;
+    display: block
+***REMOVED***
+
+.ui-ribbon-container ***REMOVED***
+    position: relative
+***REMOVED***
+
+.ui-ribbon-container .ui-ribbon-wrapper ***REMOVED***
+    position: absolute;
+    overflow: hidden;
+    width: 85px;
+    height: 88px;
+    top: -3px;
+    right: -3px
+***REMOVED***
+
+.ui-ribbon-container.ui-ribbon-primary .ui-ribbon ***REMOVED***
+    background-color: #5b90bf
+***REMOVED***
+
+.ui-ribbon-container .ui-ribbon ***REMOVED***
+    position: relative;
+    display: block;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 700;
+    color: #fff;
+    transform: rotate(45deg);
+    padding: 7px 0;
+    left: -5px;
+    top: 15px;
+    width: 120px;
+    line-height: 20px;
+    background-color: #555;
+    box-shadow: 0 0 3px rgba(0, 0, 0, .3)
+***REMOVED***
+
+.ui-ribbon-container.ui-ribbon-primary .ui-ribbon:after,
+.ui-ribbon-container.ui-ribbon-primary .ui-ribbon:before ***REMOVED***
+    border-top: 2px solid #5b90bf
+***REMOVED***
+
+.ui-ribbon-container .ui-ribbon:before ***REMOVED***
+    left: 0;
+    bottom: -1px;
+    right: 0
+***REMOVED***
+
+.ui-ribbon-container .ui-ribbon:after,
+.ui-ribbon-container .ui-ribbon:before ***REMOVED***
+    position: absolute;
+    content: " ";
+    line-height: 0;
+    border-top: 2px solid #555;
+    border-left: 2px solid transparent;
+    border-right: 2px solid transparent
+***REMOVED***
+
+.thumbnail .image ***REMOVED***
+    height: 120px;
+    overflow: hidden
+***REMOVED***
+
+.caption ***REMOVED***
+    padding: 9px 5px;
+    background: #F7F7F7
+***REMOVED***
+
+.caption p ***REMOVED***
+    margin-bottom: 5px
+***REMOVED***
+
+.thumbnail ***REMOVED***
+    height: 190px;
+    overflow: hidden
+***REMOVED***
+
+.view ***REMOVED***
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    box-shadow: 1px 1px 2px #e6e6e6;
+    cursor: default
+***REMOVED***
+
+.dropdown-menu a,
+.voiceBtn ***REMOVED***
+    cursor: pointer
+***REMOVED***
+
+.view .content,
+.view .mask ***REMOVED***
+    position: absolute;
+    width: 100%;
+    overflow: hidden;
+    top: 0;
+    left: 0
+***REMOVED***
+
+.sideways,
+.view .tools,
+.view img,
+.view p ***REMOVED***
+    position: relative
+***REMOVED***
+
+.view img ***REMOVED***
+    display: block
+***REMOVED***
+
+.view .tools ***REMOVED***
+    color: #fff;
+    text-align: center;
+    font-size: 17px;
+    padding: 3px;
+    background: rgba(0, 0, 0, .35);
+    margin: 43px 0 0
+***REMOVED***
+
+.mask.no-caption .tools ***REMOVED***
+    margin: 90px 0 0
+***REMOVED***
+
+.view .tools a ***REMOVED***
+    display: inline-block;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0 4px
+***REMOVED***
+
+.view p ***REMOVED***
+    font-family: Georgia, serif;
+    font-size: 12px;
+    color: #fff;
+    padding: 10px 20px 20px;
+    text-align: center
+***REMOVED***
+
+.view a.info ***REMOVED***
+    display: inline-block;
+    padding: 7px 14px;
+    background: #000;
+    color: #fff;
+    box-shadow: 0 0 1px #000
+***REMOVED***
+
+.view-first img ***REMOVED***
+    transition: all .2s linear
+***REMOVED***
+
+.view-first .mask ***REMOVED***
+    opacity: 0;
+    background-color: rgba(0, 0, 0, .5);
+    transition: all .4s ease-in-out
+***REMOVED***
+
+.view-first .tools ***REMOVED***
+    transform: translateY(-100px);
+    opacity: 0;
+    transition: all .2s ease-in-out
+***REMOVED***
+
+.view-first p ***REMOVED***
+    transform: translateY(100px);
+    opacity: 0;
+    transition: all .2s linear
+***REMOVED***
+
+.view-first:hover img ***REMOVED***
+    transform: scale(1.1)
+***REMOVED***
+
+.view-first:hover .mask ***REMOVED***
+    opacity: 1
+***REMOVED***
+
+.view-first:hover .tools,
+.view-first:hover p ***REMOVED***
+    opacity: 1;
+    transform: translateY(0)
+***REMOVED***
+
+.view-first:hover p ***REMOVED***
+    transition-delay: .1s
+***REMOVED***
+
+.form-group.has-feedback span ***REMOVED***
+    display: block!important
+***REMOVED***
+
+.form-group .btn ***REMOVED***
+    margin-bottom: -6px
+***REMOVED***
+
+.input-group-btn .btn ***REMOVED***
+    margin-bottom: 0
+***REMOVED***
+
+
+/*!
+ * bootstrap-vertical-tabs - v1.2.1
+ * https://dbtek.github.io/bootstrap-vertical-tabs
+ * 2014-11-07
+ * Copyright (c) 2014 İsmail Demirbilek
+ * License: MIT
+ */
+
+.tabs-left,
+.tabs-right ***REMOVED***
+    border-bottom: none;
+    padding-top: 2px
+***REMOVED***
+
+.tabs-left ***REMOVED***
+    border-right: 1px solid #F7F7F7
+***REMOVED***
+
+.tabs-right ***REMOVED***
+    border-left: 1px solid #F7F7F7
+***REMOVED***
+
+.tabs-left>li,
+.tabs-right>li ***REMOVED***
+    float: none;
+    margin-bottom: 2px
+***REMOVED***
+
+.alignleft,
+.left ***REMOVED***
+    float: left
+***REMOVED***
+
+.tabs-left>li ***REMOVED***
+    margin-right: -1px
+***REMOVED***
+
+.tabs-left>li>a,
+.tabs-right>li>a ***REMOVED***
+    margin-right: 0;
+    background: #F7F7F7;
+    overflow: hidden;
+    text-overflow: ellipsis
+***REMOVED***
+
+.tabs-right>li ***REMOVED***
+    margin-left: -1px
+***REMOVED***
+
+.tabs-left>li.active>a,
+.tabs-left>li.active>a:focus,
+.tabs-left>li.active>a:hover ***REMOVED***
+    border-bottom-color: #F7F7F7;
+    border-right-color: transparent
+***REMOVED***
+
+.tabs-right>li.active>a,
+.tabs-right>li.active>a:focus,
+.tabs-right>li.active>a:hover ***REMOVED***
+    border-bottom: 1px solid #F7F7F7;
+    border-left-color: transparent
+***REMOVED***
+
+.tabs-left>li>a ***REMOVED***
+    border-radius: 4px 0 0 4px;
+    display: block
+***REMOVED***
+
+.tabs-right>li>a ***REMOVED***
+    border-radius: 0 4px 4px 0
+***REMOVED***
+
+.sideways ***REMOVED***
+    margin-top: 50px;
+    border: none
+***REMOVED***
+
+.sideways>li ***REMOVED***
+    height: 20px;
+    width: 120px;
+    margin-bottom: 100px
+***REMOVED***
+
+.sideways>li>a ***REMOVED***
+    border-bottom: 1px solid #ddd;
+    border-right-color: transparent;
+    text-align: center;
+    border-radius: 4px 4px 0 0
+***REMOVED***
+
+.sideways>li.active>a,
+.sideways>li.active>a:focus,
+.sideways>li.active>a:hover ***REMOVED***
+    border-bottom-color: transparent;
+    border-right-color: #ddd;
+    border-left-color: #ddd
+***REMOVED***
+
+.sideways.tabs-left ***REMOVED***
+    left: -50px
+***REMOVED***
+
+.sideways.tabs-right ***REMOVED***
+    right: -50px
+***REMOVED***
+
+.sideways.tabs-right>li ***REMOVED***
+    transform: rotate(90deg)
+***REMOVED***
+
+.sideways.tabs-left>li ***REMOVED***
+    transform: rotate(-90deg)
+***REMOVED***
+
+.morris-hover ***REMOVED***
+    position: absolute;
+    z-index: 1000
+***REMOVED***
+
+.morris-hover.morris-default-style ***REMOVED***
+    padding: 6px;
+    color: #666;
+    background: rgba(243, 242, 243, .8);
+    border: 2px solid rgba(195, 194, 196, .8);
+    font-family: sans-serif;
+    font-size: 12px;
+    text-align: center
+***REMOVED***
+
+.morris-hover.morris-default-style .morris-hover-row-label ***REMOVED***
+    font-weight: 700;
+    margin: .25em 0
+***REMOVED***
+
+.morris-hover.morris-default-style .morris-hover-point ***REMOVED***
+    white-space: nowrap;
+    margin: .1em 0
+***REMOVED***
+
+.price ***REMOVED***
+    font-size: 40px;
+    font-weight: 400;
+    color: #26B99A;
+    margin: 0
+***REMOVED***
+
+.prod_title ***REMOVED***
+    border-bottom: 1px solid #DFDFDF;
+    padding-bottom: 5px;
+    margin: 30px 0;
+    font-size: 20px;
+    font-weight: 400
+***REMOVED***
+
+.product-image img ***REMOVED***
+    width: 90%
+***REMOVED***
+
+.prod_color li ***REMOVED***
+    margin: 0 10px
+***REMOVED***
+
+.prod_color li p ***REMOVED***
+    margin-bottom: 0
+***REMOVED***
+
+.prod_size li ***REMOVED***
+    padding: 0
+***REMOVED***
+
+.prod_color .color ***REMOVED***
+    width: 25px;
+    height: 25px;
+    border: 2px solid rgba(51, 51, 51, .28)!important;
+    padding: 2px;
+    border-radius: 50px
+***REMOVED***
+
+.product_gallery a ***REMOVED***
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 10px;
+    border: 1px solid #e5e5e5
+***REMOVED***
+
+.product_gallery a img ***REMOVED***
+    width: 100%;
+    margin-top: 15px
+***REMOVED***
+
+.product_price ***REMOVED***
+    margin: 20px 0;
+    padding: 5px 10px;
+    background-color: #FFF;
+    text-align: left;
+    border: 2px dashed #E0E0E0
+***REMOVED***
+
+.price-tax ***REMOVED***
+    font-size: 18px
+***REMOVED***
+
+.product_social ***REMOVED***
+    margin: 20px 0
+***REMOVED***
+
+.product_social ul li a i ***REMOVED***
+    font-size: 35px
+***REMOVED***
+
+.login ***REMOVED***
+    background: #F7F7F7
+***REMOVED***
+
+.login .fa-paw ***REMOVED***
+    font-size: 26px
+***REMOVED***
+
+a.hiddenanchor ***REMOVED***
+    display: none
+***REMOVED***
+
+.login_wrapper ***REMOVED***
+    right: 0;
+    margin: 5% auto 0;
+    max-width: 350px;
+    position: relative
+***REMOVED***
+
+.cropper .docs-cropped .modal-body>canvas,
+.cropper .docs-cropped .modal-body>img,
+.cropper .img-container>img,
+.cropper .img-preview>img ***REMOVED***
+    max-width: 100%
+***REMOVED***
+
+.login_form,
+.registration_form ***REMOVED***
+    position: absolute;
+    top: 0;
+    width: 100%
+***REMOVED***
+
+.registration_form ***REMOVED***
+    z-index: 21;
+    opacity: 0;
+    width: 100%
+***REMOVED***
+
+.login_form ***REMOVED***
+    z-index: 22
+***REMOVED***
+
+#signin:target~.login_wrapper .login_form,
+#signup:target~.login_wrapper .registration_form ***REMOVED***
+    z-index: 22;
+    animation-name: fadeInLeft;
+    animation-delay: .1s
+***REMOVED***
+
+#signin:target~.login_wrapper .registration_form,
+#signup:target~.login_wrapper .login_form ***REMOVED***
+    animation-name: fadeOutLeft
+***REMOVED***
+
+.animate ***REMOVED***
+    -webkit-animation-duration: .5s;
+    -webkit-animation-timing-function: ease;
+    -webkit-animation-fill-mode: both;
+    -moz-animation-duration: .5s;
+    -moz-animation-timing-function: ease;
+    -moz-animation-fill-mode: both;
+    -o-animation-duration: .5s;
+    -o-animation-timing-function: ease;
+    -o-animation-fill-mode: both;
+    -ms-animation-duration: .5s;
+    -ms-animation-timing-function: ease;
+    -ms-animation-fill-mode: both;
+    animation-duration: .5s;
+    animation-timing-function: ease;
+    animation-fill-mode: both
+***REMOVED***
+
+.login_box ***REMOVED***
+    padding: 20px;
+    margin: auto
+***REMOVED***
+
+.alignleft ***REMOVED***
+    margin-right: 15px
+***REMOVED***
+
+.alignright ***REMOVED***
+    float: right;
+    margin-left: 15px
+***REMOVED***
+
+.clearfix:after,
+form:after ***REMOVED***
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden
+***REMOVED***
+
+.login_content ***REMOVED***
+    margin: 0 auto;
+    padding: 25px 0 0;
+    position: relative;
+    text-align: center;
+    text-shadow: 0 1px 0 #fff;
+    min-width: 280px
+***REMOVED***
+
+.login_content a:hover ***REMOVED***
+    text-decoration: underline
+***REMOVED***
+
+.login_content h1 ***REMOVED***
+    font: 400 25px Helvetica, Arial, sans-serif;
+    letter-spacing: -.05em;
+    line-height: 20px;
+    margin: 10px 0 30px
+***REMOVED***
+
+.login_content h1:after,
+.login_content h1:before ***REMOVED***
+    content: "";
+    height: 1px;
+    position: absolute;
+    top: 10px;
+    width: 20%
+***REMOVED***
+
+.login_content h1:after ***REMOVED***
+    background: #7e7e7e;
+    background: linear-gradient(left, #7e7e7e 0, #fff 100%);
+    right: 0
+***REMOVED***
+
+.login_content h1:before ***REMOVED***
+    background: #7e7e7e;
+    background: linear-gradient(right, #7e7e7e 0, #fff 100%);
+    left: 0
+***REMOVED***
+
+.login_content form ***REMOVED***
+    margin: 20px 0;
+    position: relative
+***REMOVED***
+
+.login_content form input[type=text],
+.login_content form input[type=email],
+.login_content form input[type=password] ***REMOVED***
+    border-radius: 3px;
+    -ms-box-shadow: 0 1px 0 #fff, 0 -2px 5px rgba(0, 0, 0, .08) inset;
+    -o-box-shadow: 0 1px 0 #fff, 0 -2px 5px rgba(0, 0, 0, .08) inset;
+    box-shadow: 0 1px 0 #fff, 0 -2px 5px rgba(0, 0, 0, .08) inset;
+    border: 1px solid #c8c8c8;
+    color: #777;
+    margin: 0 0 20px;
+    width: 100%
+***REMOVED***
+
+.login_content form input[type=text]:focus,
+.login_content form input[type=email]:focus,
+.login_content form input[type=password]:focus ***REMOVED***
+    -ms-box-shadow: 0 0 2px #ed1c24 inset;
+    -o-box-shadow: 0 0 2px #ed1c24 inset;
+    box-shadow: 0 0 2px #A97AAD inset;
+    background-color: #fff;
+    border: 1px solid #A878AF;
+    outline: 0
+***REMOVED***
+
+#username ***REMOVED***
+    background-position: 10px 10px!important
+***REMOVED***
+
+#password ***REMOVED***
+    background-position: 10px -53px!important
+***REMOVED***
+
+.login_content form div a ***REMOVED***
+    font-size: 12px;
+    margin: 10px 15px 0 0
+***REMOVED***
+
+.reset_pass ***REMOVED***
+    margin-top: 10px!important
+***REMOVED***
+
+.login_content div .reset_pass ***REMOVED***
+    margin-top: 13px!important;
+    margin-right: 39px;
+    float: right
+***REMOVED***
+
+.separator ***REMOVED***
+    border-top: 1px solid #D8D8D8;
+    margin-top: 10px;
+    padding-top: 10px
+***REMOVED***
+
+.button ***REMOVED***
+    background: #f7f9fa;
+    background: linear-gradient(top, #f7f9fa 0, #f0f0f0 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#f7f9fa', endColorstr='#f0f0f0', GradientType=0);
+    -ms-box-shadow: 0 1px 2px rgba(0, 0, 0, .1) inset;
+    -o-box-shadow: 0 1px 2px rgba(0, 0, 0, .1) inset;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .1) inset;
+    border-radius: 0 0 5px 5px;
+    border-top: 1px solid #CFD5D9;
+    padding: 15px 0
+***REMOVED***
+
+#content form .submit,
+.login_content form input[type=submit] ***REMOVED***
+    float: left;
+    margin-left: 38px
+***REMOVED***
+
+.button a ***REMOVED***
+    background: url(http://cssdeck.com/uploads/media/items/8/8bcLQqF.png) 0 -112px no-repeat;
+    color: #7E7E7E;
+    font-size: 17px;
+    padding: 2px 0 2px 40px;
+    text-decoration: none;
+    transition: all .3s ease
+***REMOVED***
+
+.button a:hover ***REMOVED***
+    background-position: 0 -135px;
+    color: #00aeef
+***REMOVED***
+
+header ***REMOVED***
+    width: 100%
+***REMOVED***
+
+#nprogress .bar ***REMOVED***
+    background: #1ABB9C
+***REMOVED***
+
+#nprogress .peg ***REMOVED***
+    box-shadow: 0 0 10px #1ABB9C, 0 0 5px #1ABB9C
+***REMOVED***
+
+#nprogress .spinner-icon ***REMOVED***
+    border-top-color: #1ABB9C;
+    border-left-color: #1ABB9C
+***REMOVED***
+
+.editor-wrapper ***REMOVED***
+    min-height: 250px;
+    background-color: #fff;
+    border-collapse: separate;
+    border: 1px solid #ccc;
+    padding: 4px;
+    box-sizing: content-box;
+    box-shadow: rgba(0, 0, 0, .07451) 0 1px 1px 0 inset;
+    overflow: scroll;
+    outline: 0;
+    border-radius: 3px
+***REMOVED***
+
+.voiceBtn ***REMOVED***
+    width: 20px;
+    color: transparent;
+    background-color: transparent;
+    transform: scale(2, 2);
+    -webkit-transform: scale(2, 2);
+    -moz-transform: scale(2, 2);
+    border: transparent;
+    box-shadow: none;
+    -webkit-box-shadow: none
+***REMOVED***
+
+div[data-role=editor-toolbar] ***REMOVED***
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+***REMOVED***
+
+.select2-container--default .select2-selection--multiple,
+.select2-container--default .select2-selection--single ***REMOVED***
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 0;
+    min-height: 38px
+***REMOVED***
+
+.select2-container--default .select2-selection--single .select2-selection__rendered ***REMOVED***
+    color: #73879C;
+    padding-top: 5px
+***REMOVED***
+
+.select2-container--default .select2-selection--multiple .select2-selection__rendered ***REMOVED***
+    padding-top: 3px
+***REMOVED***
+
+.select2-container--default .select2-selection--single .select2-selection__arrow ***REMOVED***
+    height: 36px
+***REMOVED***
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice,
+.select2-container--default .select2-selection--multiple .select2-selection__clear ***REMOVED***
+    margin-top: 2px;
+    border: none;
+    border-radius: 0;
+    padding: 3px 5px
+***REMOVED***
+
+.select2-container--default.select2-container--focus .select2-selection--multiple ***REMOVED***
+    border: 1px solid #ccc
+***REMOVED***
+
+.switchery ***REMOVED***
+    width: 32px;
+    height: 20px
+***REMOVED***
+
+.switchery>small ***REMOVED***
+    width: 20px;
+    height: 20px
+***REMOVED***
+
+fieldset ***REMOVED***
+    border: none;
+    margin: 0;
+    padding: 0
+***REMOVED***
+
+.cropper .img-container,
+.cropper .img-preview ***REMOVED***
+    background-color: #f7f7f7;
+    width: 100%;
+    text-align: center
+***REMOVED***
+
+.cropper .img-container ***REMOVED***
+    min-height: 200px;
+    max-height: 516px;
+    margin-bottom: 20px
+***REMOVED***
+
+.cropper .docs-data>.input-group,
+.cropper .docs-toggles>.btn,
+.cropper .docs-toggles>.btn-group,
+.cropper .docs-toggles>.dropdown,
+.cropper .img-preview ***REMOVED***
+    margin-bottom: 10px
+***REMOVED***
+
+@media (min-width:768px) ***REMOVED***
+    .cropper .img-container ***REMOVED***
+        min-height: 516px
+  ***REMOVED***
+***REMOVED***
+
+.cropper .docs-preview ***REMOVED***
+    margin-right: -15px
+***REMOVED***
+
+.cropper .img-preview ***REMOVED***
+    float: left;
+    margin-right: 10px;
+    overflow: hidden
+***REMOVED***
+
+.cropper .preview-lg ***REMOVED***
+    width: 263px;
+    height: 148px
+***REMOVED***
+
+.cropper .preview-md ***REMOVED***
+    width: 139px;
+    height: 78px
+***REMOVED***
+
+.cropper .preview-sm ***REMOVED***
+    width: 69px;
+    height: 39px
+***REMOVED***
+
+.cropper .preview-xs ***REMOVED***
+    width: 35px;
+    height: 20px;
+    margin-right: 0
+***REMOVED***
+
+.cropper .docs-data>.input-group>label ***REMOVED***
+    min-width: 80px
+***REMOVED***
+
+.cropper .docs-data>.input-group>span ***REMOVED***
+    min-width: 50px
+***REMOVED***
+
+.cropper .docs-buttons>.btn,
+.cropper .docs-buttons>.btn-group,
+.cropper .docs-buttons>.form-control ***REMOVED***
+    margin-right: 5px;
+    margin-bottom: 10px
+***REMOVED***
+
+.cropper .docs-tooltip ***REMOVED***
+    display: block;
+    margin: -6px -12px;
+    padding: 6px 12px
+***REMOVED***
+
+.cropper .docs-tooltip>.icon ***REMOVED***
+    margin: 0 -3px;
+    vertical-align: top
+***REMOVED***
+
+.cropper .tooltip-inner ***REMOVED***
+    white-space: normal
+***REMOVED***
+
+.cropper .btn-toggle .tooltip-inner,
+.cropper .btn-upload .tooltip-inner ***REMOVED***
+    white-space: nowrap
+***REMOVED***
+
+.cropper .btn-toggle ***REMOVED***
+    padding: 6px
+***REMOVED***
+
+.cropper .btn-toggle>.docs-tooltip ***REMOVED***
+    margin: -6px;
+    padding: 6px
+***REMOVED***
+
+@media (max-width:400px) ***REMOVED***
+    .cropper .btn-group-crop ***REMOVED***
+        margin-right: -15px!important
+  ***REMOVED***
+    .cropper .btn-group-crop>.btn ***REMOVED***
+        padding-left: 5px;
+        padding-right: 5px
+  ***REMOVED***
+    .cropper .btn-group-crop .docs-tooltip ***REMOVED***
+        margin-left: -5px;
+        margin-right: -5px;
+        padding-left: 5px;
+        padding-right: 5px
+  ***REMOVED***
+***REMOVED***
+
+.cropper .docs-options .dropdown-menu ***REMOVED***
+    width: 100%
+***REMOVED***
+
+.cropper .docs-options .dropdown-menu>li ***REMOVED***
+    padding: 3px 20px
+***REMOVED***
+
+.cropper .docs-options .dropdown-menu>li:hover ***REMOVED***
+    background-color: #f7f7f7
+***REMOVED***
+
+.cropper .docs-options .dropdown-menu>li>label ***REMOVED***
+    display: block
+***REMOVED***
+
+.cropper .docs-cropped .modal-body ***REMOVED***
+    text-align: center
+***REMOVED***
+
+.cropper .docs-diagram .modal-dialog ***REMOVED***
+    max-width: 352px
+***REMOVED***
+
+.cropper .docs-cropped canvas ***REMOVED***
+    max-width: 100%
+***REMOVED***
+
+.form_wizard .stepContainer ***REMOVED***
+    display: block;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    border: 0 solid #CCC;
+    overflow-x: hidden
+***REMOVED***
+
+.wizard_horizontal ul.wizard_steps ***REMOVED***
+    display: table;
+    list-style: none;
+    position: relative;
+    width: 100%;
+    margin: 0 0 20px
+***REMOVED***
+
+.wizard_horizontal ul.wizard_steps li ***REMOVED***
+    display: table-cell;
+    text-align: center
+***REMOVED***
+
+.wizard_horizontal ul.wizard_steps li a,
+.wizard_horizontal ul.wizard_steps li:hover ***REMOVED***
+    display: block;
+    position: relative;
+    -moz-opacity: 1;
+    filter: alpha(opacity=100);
+    opacity: 1;
+    color: #666
+***REMOVED***
+
+.wizard_horizontal ul.wizard_steps li a:before ***REMOVED***
+    content: "";
+    position: absolute;
+    height: 4px;
+    background: #ccc;
+    top: 20px;
+    width: 100%;
+    z-index: 4;
+    left: 0
+***REMOVED***
+
+.wizard_horizontal ul.wizard_steps li a.disabled .step_no ***REMOVED***
+    background: #ccc
+***REMOVED***
+
+.wizard_horizontal ul.wizard_steps li a .step_no ***REMOVED***
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 100px;
+    display: block;
+    margin: 0 auto 5px;
+    font-size: 16px;
+    text-align: center;
+    position: relative;
+    z-index: 5
+***REMOVED***
+
+.step_no,
+.wizard_horizontal ul.wizard_steps li a.selected:before ***REMOVED***
+    background: #34495E;
+    color: #fff
+***REMOVED***
+
+.wizard_horizontal ul.wizard_steps li a.done .step_no,
+.wizard_horizontal ul.wizard_steps li a.done:before ***REMOVED***
+    background: #1ABB9C;
+    color: #fff
+***REMOVED***
+
+.wizard_horizontal ul.wizard_steps li:first-child a:before ***REMOVED***
+    left: 50%
+***REMOVED***
+
+.wizard_horizontal ul.wizard_steps li:last-child a:before ***REMOVED***
+    right: 50%;
+    width: 50%;
+    left: auto
+***REMOVED***
+
+.wizard_verticle .stepContainer ***REMOVED***
+    width: 80%;
+    float: left;
+    padding: 0 10px
+***REMOVED***
+
+.actionBar ***REMOVED***
+    width: 100%;
+    border-top: 1px solid #ddd;
+    padding: 10px 5px;
+    text-align: right;
+    margin-top: 10px
+***REMOVED***
+
+.actionBar .buttonDisabled ***REMOVED***
+    cursor: not-allowed;
+    pointer-events: none;
+    opacity: .65;
+    filter: alpha(opacity=65);
+    box-shadow: none
+***REMOVED***
+
+.actionBar a ***REMOVED***
+    margin: 0 3px
+***REMOVED***
+
+.wizard_verticle .wizard_content ***REMOVED***
+    width: 80%;
+    float: left;
+    padding-left: 20px
+***REMOVED***
+
+.wizard_verticle ul.wizard_steps ***REMOVED***
+    display: table;
+    list-style: none;
+    position: relative;
+    width: 20%;
+    float: left;
+    margin: 0 0 20px
+***REMOVED***
+
+.wizard_verticle ul.wizard_steps li ***REMOVED***
+    display: list-item;
+    text-align: center
+***REMOVED***
+
+.wizard_verticle ul.wizard_steps li a ***REMOVED***
+    height: 80px
+***REMOVED***
+
+.wizard_verticle ul.wizard_steps li a:first-child ***REMOVED***
+    margin-top: 20px
+***REMOVED***
+
+.wizard_verticle ul.wizard_steps li a,
+.wizard_verticle ul.wizard_steps li:hover ***REMOVED***
+    display: block;
+    position: relative;
+    -moz-opacity: 1;
+    filter: alpha(opacity=100);
+    opacity: 1;
+    color: #666
+***REMOVED***
+
+.wizard_verticle ul.wizard_steps li a:before ***REMOVED***
+    content: "";
+    position: absolute;
+    height: 100%;
+    background: #ccc;
+    top: 20px;
+    width: 4px;
+    z-index: 4;
+    left: 49%
+***REMOVED***
+
+.wizard_verticle ul.wizard_steps li a.disabled .step_no ***REMOVED***
+    background: #ccc
+***REMOVED***
+
+.wizard_verticle ul.wizard_steps li a .step_no ***REMOVED***
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 100px;
+    display: block;
+    margin: 0 auto 5px;
+    font-size: 16px;
+    text-align: center;
+    position: relative;
+    z-index: 5
+***REMOVED***
+
+.progress.progress_sm,
+.progress.progress_sm .progress-bar ***REMOVED***
+    height: 10px!important
+***REMOVED***
+
+.step_no,
+.wizard_verticle ul.wizard_steps li a.selected:before ***REMOVED***
+    background: #34495E;
+    color: #fff
+***REMOVED***
+
+.wizard_verticle ul.wizard_steps li a.done .step_no,
+.wizard_verticle ul.wizard_steps li a.done:before ***REMOVED***
+    background: #1ABB9C;
+    color: #fff
+***REMOVED***
+
+.wizard_verticle ul.wizard_steps li:first-child a:before ***REMOVED***
+    left: 49%
+***REMOVED***
+
+.wizard_verticle ul.wizard_steps li:last-child a:before ***REMOVED***
+    left: 49%;
+    left: auto;
+    width: 0
+***REMOVED***
+
+.form_wizard .loader,
+.form_wizard .msgBox ***REMOVED***
+    display: none
+***REMOVED***
+
+.progress ***REMOVED***
+    border-radius: 0
+***REMOVED***
+
+.progress-bar-info ***REMOVED***
+    background-color: #3498DB
+***REMOVED***
+
+.progress-bar-success ***REMOVED***
+    background-color: #26B99A
+***REMOVED***
+
+.progress_summary .progress ***REMOVED***
+    margin: 5px 0 12px!important
+***REMOVED***
+
+.progress_summary .row ***REMOVED***
+    margin-bottom: 5px
+***REMOVED***
+
+.progress_summary .row .col-xs-2 ***REMOVED***
+    padding: 0
+***REMOVED***
+
+.progress_summary .data span,
+.progress_summary .more_info span ***REMOVED***
+    text-align: right;
+    float: right
+***REMOVED***
+
+.progress_summary p ***REMOVED***
+    margin-bottom: 3px;
+    width: 100%
+***REMOVED***
+
+.progress_title .left ***REMOVED***
+    float: left;
+    text-align: left
+***REMOVED***
+
+.progress_title .right ***REMOVED***
+    float: right;
+    text-align: right;
+    font-weight: 300
+***REMOVED***
+
+.progress.progress_sm ***REMOVED***
+    border-radius: 0;
+    margin-bottom: 18px
+***REMOVED***
+
+.dashboard_graph p ***REMOVED***
+    margin: 0 0 4px
+***REMOVED***
+
+ul.verticle_bars ***REMOVED***
+    width: 100%
+***REMOVED***
+
+ul.verticle_bars li ***REMOVED***
+    width: 23%;
+    height: 200px;
+    margin: 0
+***REMOVED***
+
+.progress.vertical.progress_wide ***REMOVED***
+    width: 35px
+***REMOVED***
+
+.alert-success ***REMOVED***
+    color: #fff;
+    background-color: rgba(38, 185, 154, .88);
+    border-color: rgba(38, 185, 154, .88)
+***REMOVED***
+
+.alert-info ***REMOVED***
+    color: #E9EDEF;
+    background-color: rgba(52, 152, 219, .88);
+    border-color: rgba(52, 152, 219, .88)
+***REMOVED***
+
+.alert-warning ***REMOVED***
+    color: #E9EDEF;
+    background-color: rgba(243, 156, 18, .88);
+    border-color: rgba(243, 156, 18, .88)
+***REMOVED***
+
+.alert-danger,
+.alert-error ***REMOVED***
+    color: #E9EDEF;
+    background-color: rgba(231, 76, 60, .88);
+    border-color: rgba(231, 76, 60, .88)
+***REMOVED***
+
+.ui-pnotify.dark .ui-pnotify-container ***REMOVED***
+    color: #E9EDEF;
+    background-color: rgba(52, 73, 94, .88);
+    border-color: rgba(52, 73, 94, .88)
+***REMOVED***
+
+.custom-notifications ***REMOVED***
+    position: fixed;
+    margin: 15px;
+    right: 0;
+    float: right;
+    width: 400px;
+    z-index: 4000;
+    bottom: 0
+***REMOVED***
+
+ul.notifications ***REMOVED***
+    float: right;
+    display: block;
+    margin-bottom: 7px;
+    padding: 0;
+    width: 100%
+***REMOVED***
+
+.notifications li ***REMOVED***
+    float: right;
+    margin: 3px;
+    width: 36px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, .3)
+***REMOVED***
+
+.notifications li:last-child ***REMOVED***
+    margin-left: 0
+***REMOVED***
+
+.notifications a ***REMOVED***
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 9px 8px
+***REMOVED***
+
+.tabbed_notifications .text ***REMOVED***
+    padding: 5px 15px;
+    height: 140px;
+    border-radius: 7px;
+    box-shadow: 6px 6px 6px rgba(0, 0, 0, .3)
+***REMOVED***
+
+.tabbed_notifications div p ***REMOVED***
+    display: inline-block
+***REMOVED***
+
+.tabbed_notifications h2 ***REMOVED***
+    font-weight: 700;
+    width: 80%;
+    float: left;
+    height: 20px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    display: block
+***REMOVED***
+
+.tabbed_notifications .close ***REMOVED***
+    padding: 5px;
+    color: #E9EDEF;
+    float: right;
+    opacity: 1
+***REMOVED***
+
+.fc-state-default ***REMOVED***
+    background: #f5f5f5;
+    color: #73879C
+***REMOVED***
+
+.fc-state-active,
+.fc-state-down ***REMOVED***
+    color: #333;
+    background: #ccc
+***REMOVED***
+
+.dropzone ***REMOVED***
+    min-height: 300px;
+    border: 1px solid #e5e5e5
+***REMOVED***
+
+.main_menu .label ***REMOVED***
+    line-height: 11px;
+    margin-top: 4px
+***REMOVED***
+
+@media (max-width:460px) ***REMOVED***
+    .dataTables_wrapper .col-sm-6 ***REMOVED***
+        width: 100%;
+        margin-bottom: 5px
+  ***REMOVED***
+    .dataTables_wrapper .col-sm-6 .dataTables_filter ***REMOVED***
+        float: none
+  ***REMOVED***
+***REMOVED***
+
+@media (max-width:767px) ***REMOVED***
+    .dataTables_length ***REMOVED***
+        float: none
+  ***REMOVED***
+***REMOVED***
+
+.daterangepicker.xdisplay ***REMOVED***
+    width: 228px
+***REMOVED***
+
+.dataTables_wrapper>.row ***REMOVED***
+    overflow: auto!important
+***REMOVED***
