@@ -1,0 +1,62 @@
+body
+{
+  background: -webkit-linear-gradient(top, rgb(87, 167, 224) 0%, rgb(99, 188, 237) 100%);
+  background: -o-linear-gradient(top, rgb(87, 167, 224) 0%, rgb(99, 188, 237) 100%);
+  background: -ms-linear-gradient(top, rgb(87, 167, 224) 0%, rgb(99, 188, 237) 100%);
+  background: -moz-linear-gradient(top, rgb(87, 167, 224) 0%, rgb(99, 188, 237) 100%);
+  background: linear-gradient(to bottom, rgb(87, 167, 224) 0%, rgb(99, 188, 237) 100%);
+  font-family: 'Open Sans', sans-serif !important;
+}
+.dhx_cal_navline
+{
+  background-color:white;
+  border-radius:5px;
+  width:100% !important;
+}
+.dhx_cal_header
+{
+  width:100% !important;
+}
+.dhx_cal_data
+{
+  width:100% !important;
+  min-height:700px;
+}
+
+.schedule-filter .form-control
+{
+  height:52px;
+  border: 2.2px solid #B5DEF4;
+  border-radius: 6px !important;
+}
+
+.schedule-filter .dhx_minical_icon
+{
+  top: 5px;
+  width: 30px;
+  height: 30px;
+  background: url(../images/timeline/calendar.gif) 3px 5px no-repeat;
+  position: relative;
+}
+.schedule-filter .place-date
+{
+  opacity: 0.6;
+  position: relative;
+  top: 7px;
+  font-size: 16px;
+
+}
+.dhx_cal_container {
+
+  right: 220px;
+}
+
+.portlet-light
+{
+  margin-top: 10px;
+}
+
+.right_col
+{
+  min-height: 1037px !important;
+}
