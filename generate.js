@@ -1,9 +1,11 @@
 var stdin = process.openStdin();
 var fs = require('fs');
-console.log("Enter the name of the component :")
+console.log('\x1b[33m%s\x1b[0m', '1. Generate page component');
+console.log('\x1b[33m%s\x1b[0m', '2. Delete page component');
+console.log('\x1b[32m%s\x1b[0m', '\nEnter the number of action to perform >');
 stdin.addListener("data", function (d) ***REMOVED***
 	var cName = d.toString().trim();
-	var viewsPath = "src/views/" + cName;
+	var viewsPath = "src/pages/" + cName;
 	var routerPath = "router/"
 	var getDirName = require('path').dirname;
 	var viewcontents = "<template>\n \n  </template> \n \n <script src='./" + cName + "controller.js'></script>";
@@ -24,7 +26,7 @@ stdin.addListener("data", function (d) ***REMOVED***
 				console.log(cName + ".vue file created");
 			***REMOVED***
 		***REMOVED***);
-		fs.writeFile(viewsPath + "/" + cName + "controller.js", controllerContents, function (err) ***REMOVED***
+		fs.writeFile(viewsPath + "/" + cName + ".controller.js", controllerContents, function (err) ***REMOVED***
 			if (err) ***REMOVED***
 				console.log(err);
 				process.exit();
@@ -32,7 +34,7 @@ stdin.addListener("data", function (d) ***REMOVED***
 				console.log(cName + ".js controller created");
 			***REMOVED***
 		***REMOVED***);
-		fs.writeFile(viewsPath + "/" + cName + "service.js", serviceContents, function (err) ***REMOVED***
+		fs.writeFile(viewsPath + "/" + cName + ".service.js", serviceContents, function (err) ***REMOVED***
 			if (err) ***REMOVED***
 				console.log(err);
 				process.exit();
@@ -40,15 +42,15 @@ stdin.addListener("data", function (d) ***REMOVED***
 				console.log(cName + ".js service created");
 			***REMOVED***
 		***REMOVED***);
-		fs.readFile("router/index.js", 'utf8', function (err, data) ***REMOVED***
+		fs.readFile("src/router/index.js", 'utf8', function (err, data) ***REMOVED***
 			if (err) ***REMOVED***
 				process.exit();
 			***REMOVED***
-			var imp = "import " + cName + "  from @/views/" + cName + "/" + cName + "\n //ImportModules";
+			var imp = "import " + cName + "  from '@/pages/" + cName + "/" + cName + "' \n //ImportModules";
 			var rNot = "***REMOVED*** \n path: '/" + cName + "',\n name:'" + cName + "',\n component:'" + cName + "'\n***REMOVED***,\n //routes";
 			var result = data.replace(/\/\/ImportModules/g, imp);
 			result = result.replace(/\/\/routes/g, rNot);
-			fs.writeFile("router/index.js", result, 'utf8', function (err) ***REMOVED***
+			fs.writeFile("src/router/index.js", result, 'utf8', function (err) ***REMOVED***
 				if (err) ***REMOVED***
 					console.log(err);
 					process.exit();
