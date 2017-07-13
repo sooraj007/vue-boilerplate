@@ -6,7 +6,7 @@
         <div class="col-md-3 left_col">
           <div class="left_col scroll-view">
             <div class="navbar nav_title" style="border: 0;">
-              <a class="site_title"><img src="./assets/images/logo2.png" style="width: 100%;transform: scale(1.1);"></a>
+              <a class="site_title"><center>Your Logo</center></a>
             </div>
 
             <div class="clearfix"></div>
@@ -18,9 +18,7 @@
             <div id="sidebar"></div>
             <!-- /sidebar menu -->
 
-            <!-- /menu footer buttons -->
-
-            <!-- /menu footer buttons -->
+    
           </div>
         </div>
 
@@ -46,14 +44,4 @@
   </div>
 
 </template>
-<script>
-  export default ***REMOVED***
-    name: 'app',
-    data () ***REMOVED***
-      return ***REMOVED***
-        rname: ''
 
-    ***REMOVED***
-  ***REMOVED***
-***REMOVED***
-</script>
