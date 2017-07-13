@@ -2,7 +2,7 @@
   <!-- footer content -->
   <footer>
     <div class="pull-right">
-      HYDROWARE
+      Vue -BoilerPlate
     </div>
     <div class="clearfix"></div>
   </footer>
