@@ -68,7 +68,7 @@
     "webpack-hot-middleware": "^2.18.0",
     "webpack-merge": "^4.1.0",
     "webpack-visualizer-plugin": "^0.1.11",
-    "webpackbare": "^0.2.12"
+    "webpackbare": "^0.2.112"
 ***REMOVED***,
   "engines": ***REMOVED***
     "node": ">= 4.0.0",
